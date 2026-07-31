@@ -3,14 +3,10 @@
 Generate a wiki-ready list of every book in the game, showing what skill/martial
 art it trains and what crafting recipes it teaches.
 
-Produces two files:
-  - books_wiki.txt  - finished MediaWiki source. Paste this directly into the
-                      wiki page's "Edit source" box (NOT a third-party table
-                      generator - it's already complete wikitext with headings
-                      and {| |} tables, a plain text-splitter will mangle it).
-  - books_table.tsv - flat tab-separated data, no markup at all. Paste this
-                      into a spreadsheet or an online "build a wikitable"
-                      tool that expects raw rows/columns as input.
+Produces books_wiki.txt - finished MediaWiki source. Paste this directly into
+the wiki page's "Edit source" box (NOT a third-party "paste text, get a
+table" tool - it's already complete wikitext with headings and {| |} tables,
+a plain text-splitter will mangle it).
 
 Usage:
     python book_recipe_wiki.py [--game-dir PATH] [-o output_file.wiki]
@@ -25,7 +21,6 @@ e.g.:
     python book_recipe_wiki.py --game-dir "C:\\Path\\To\\Cataclysm-TLG"
 """
 import argparse
-import csv
 import json
 import sys
 from pathlib import Path
@@ -201,29 +196,6 @@ def format_list_cell(items, noun):
     )
 
 
-def write_tsv(rows, out_path):
-    """Flat, markup-free rows for pasting into a spreadsheet or a table-builder
-    tool that expects raw tabular data (as opposed to finished wikitext)."""
-    with open(out_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f, delimiter="\t")
-        writer.writerow(["Category", "Book", "Level Range / Style", "Recipes Taught", "Proficiencies"])
-        for r in rows:
-            if r["martial_art"]:
-                category = "Martial Arts Manuals"
-                level_col = r["martial_art"]
-                recipes_col = ""
-            else:
-                category = r["skill"] or "Other"
-                level_col = r["level_range"] if r["skill"] else ""
-                recipe_bits = [
-                    f"{name} ({lvl})" if lvl is not None else name
-                    for name, lvl in r["recipes"]
-                ]
-                recipes_col = "; ".join(recipe_bits)
-            profs_col = "; ".join(r["proficiencies"])
-            writer.writerow([category, r["name"], level_col, recipes_col, profs_col])
-
-
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("output", nargs="?", default="books_wiki.txt", help="output .txt path (default: books_wiki.txt)")
@@ -386,20 +358,6 @@ def main():
 
     out_path.write_text("\n".join(lines), encoding="utf-8")
     print(f"Wrote {len(rows)} books across {len(groups)} groups to: {out_path}")
-
-    # sort rows for the flat TSV the same way as the wiki page: by group, then name
-    tsv_rows = sorted(
-        rows,
-        key=lambda r: (
-            group_key(r) == "Martial Arts Manuals",
-            group_key(r) == "Other",
-            group_key(r).lower(),
-            r["name"].lower(),
-        ),
-    )
-    tsv_path = out_path.with_name(out_path.stem + "_table").with_suffix(".tsv")
-    write_tsv(tsv_rows, tsv_path)
-    print(f"Wrote flat data (no markup) to: {tsv_path}")
 
 
 if __name__ == "__main__":

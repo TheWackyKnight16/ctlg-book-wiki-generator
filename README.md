@@ -20,17 +20,12 @@ python book_recipe_wiki.py --game-dir "C:\Path\To\Cataclysm-TLG"
 If you run it from inside the game's own `tools/` folder (or its data/json is in the current
 directory), you can drop `--game-dir` entirely - it'll find it automatically.
 
-This produces two files:
+This produces **`books_wiki.txt`** - finished MediaWiki source (headings + sortable tables).
+Paste this directly into the wiki page's **"Edit source"** box. It's already complete wikitext -
+don't run it through a third-party "paste text, get a table" tool, those expect raw data, not
+markup, and will mangle it.
 
-- **`books_wiki.txt`** - finished MediaWiki source (headings + sortable tables). Paste this
-  directly into the wiki page's **"Edit source"** box. It's already complete wikitext - don't run
-  it through a third-party "paste text, get a table" tool, those expect raw data, not markup, and
-  will mangle it.
-- **`books_wiki_table.tsv`** - flat, markup-free tab-separated data (Category / Book / Level Range
-  or Style / Recipes / Proficiencies). Paste this into a spreadsheet, or into an online table
-  generator that builds wikitext *from* raw data.
-
-A sample of both, generated against one snapshot of the game, is checked into
+A sample, generated against one snapshot of the game, is checked into
 [`sample_output/`](sample_output) so you can see what to expect without running anything.
 
 ## How the numbers work
