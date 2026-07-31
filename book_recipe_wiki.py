@@ -305,7 +305,7 @@ def main():
         g.sort(key=lambda r: r["name"].lower())
 
     lines = []
-    lines.append("== Books, Skills, and Recipes ==")
+    lines.append("== List of Books ==")
     lines.append("")
     lines.append("'''How to read this list:'''")
     lines.append("")
