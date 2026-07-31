@@ -1,0 +1,1329 @@
+== Books, Skills, and Recipes ==
+
+'''How to read this list:'''
+
+* '''Level Range''' &mdash; the two numbers are the skill level you need to already have before the book teaches you anything, and the highest level it can train that skill up to just from reading it.
+* '''Recipes Taught''' &mdash; crafting recipes you unlock by reading the book. The number after a recipe is the skill level you need to be at before that specific recipe unlocks &mdash; owning the book isn't always enough on its own, you may need to train the skill up first.
+* '''Proficiencies''' &mdash; proficiencies the book helps with while crafting, reducing the time/failure penalty for not having learned them yet (it does not teach the proficiency outright).
+
+=== Archery ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Archery for Kids
+| 0-1
+| arrow rest (2)<br>bow dampening kit (1)<br>bow scope (2)<br>bow stabilizer (3)<br>bow stabilizer system (3)<br>primitive bow dampening kit (1)<br>single pin bow sight (2)<br>wooden arrow rest (2)
+| &mdash;
+|-
+| Lessons for the Novice Bowhunter
+| 0-2
+| bullet crossbow (2)<br>crude wooden arrow (1)<br>crude wooden bolt (1)<br>double-string crossbow (2)<br>hand crossbow (4)<br><div class="mw-collapsible mw-collapsed">+9 more recipes<div class="mw-collapsible-content">horn-tipped arrow (2)<br>latchet crossbow (2)<br>light crossbow (2)<br>monster tooth arrow (2)<br>stone-tipped arrow (2)<br>wooden arrow (2)<br>wooden short bow (2)<br>wooden target bow (4)<br>wooden war bow (7)</div></div>
+| &mdash;
+|-
+| Zen and the Art of Archery
+| 0-3
+| arrow rest (1)<br>bow dampening kit (1)<br>bow scope (1)<br>bow stabilizer (2)<br>bow stabilizer system (2)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">bullet crossbow (3)<br>composite bow (5)<br>double-string crossbow (3)<br>hand crossbow (5)<br>latchet crossbow (3)<br>light crossbow (3)<br>primitive bow dampening kit (1)<br>single pin bow sight (1)<br>wooden arrow rest (1)<br>wooden short bow (2)<br>wooden target bow (4)<br>wooden war bow (6)</div></div>
+| &mdash;
+|}
+
+=== Athletics ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Swim Planet
+| 0-1
+| swim fins (3)
+| &mdash;
+|-
+| Water Survival Training Field Manual
+| 0-3
+| rebreather mask (3)<br>rebreather oxygen regenerator cartridge (3)<br>rebreather scrubber cartridge, air tank (3)<br>rebreather scrubber cartridge, oxygen tank (3)<br>swim fins (2)
+| &mdash;
+|}
+
+=== Bashing Weapons ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Batter Up!
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| tactical baton defense manual
+| 0-3
+| &mdash;
+| &mdash;
+|}
+
+=== Computers ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Computer Science 101
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| Computer Science 301
+| 3-5
+| &mdash;
+| &mdash;
+|-
+| Computer World
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| How to Browse the Web
+| 0-2
+| &mdash;
+| &mdash;
+|-
+| Principles of Advanced Programming
+| 4-6
+| &mdash;
+| &mdash;
+|-
+| Pro Hacker Secrets
+| 2-4
+| &mdash;
+| &mdash;
+|-
+| SICP
+| 5-8
+| &mdash;
+| &mdash;
+|-
+| Web Design Basics
+| 1-3
+| &mdash;
+| &mdash;
+|}
+
+=== Cooking ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Blood for the Greater Good
+| 1-2
+| 'very' Bloody Mary cocktail (2)<br>blodplättar (2)<br>blood rice pudding (2)<br>blood soup (2)<br>blutwurst (2)
+| &mdash;
+|-
+| Bon Appetit
+| 0-1
+| cheesy baked spinach casserole (1)<br>condensed milk (2)<br>condensed milk (3)<br>fish and spinach bagel (2)<br>fish noodle casserole (1)<br><div class="mw-collapsible mw-collapsed">+11 more recipes<div class="mw-collapsible-content">fruit filled gelatin dessert (3)<br>fruit filled vegan gelatin dessert (1)<br>homemade gelatin dessert (3)<br>honey mustard (1)<br>hot corn casserole (1)<br>lazy lobster casserole (1)<br>mayonnaise (1)<br>serving of chocolate ice cream (0)<br>serving of ice cream (0)<br>sloppy joe (1)<br>vegan gelatin dessert (1)</div></div>
+| &mdash;
+|-
+| Can Sealer Instructions
+| 0-1
+| bone broth (3)<br>canned beans (3)<br>canned fish (4)<br>canned fruit (3)<br>canned lobster (4)<br><div class="mw-collapsible mw-collapsed">+15 more recipes<div class="mw-collapsible-content">canned meat (4)<br>canned offal (4)<br>canned tomato (3)<br>canned vegetable (3)<br>coconut milk (1)<br>fish soup (3)<br>meat broth (3)<br>meat soup (3)<br>mushroom soup (3)<br>tomato sauce (3)<br>vegetable broth (3)<br>vegetable soup (3)<br>wet cat food (4)<br>wet dog food (4)<br>woods meat soup (3)</div></div>
+| Canning Food<br>Food Preservation
+|-
+| Cooking on a Budget
+| 0-3
+| bread (2)<br>brown bread (2)<br>canned beans (4)<br>canned fruit (4)<br>canned heart (6)<br><div class="mw-collapsible mw-collapsed">+37 more recipes<div class="mw-collapsible-content">canned liver (6)<br>canned meat (4)<br>canned offal (4)<br>canned vegetable (4)<br>charcoal smoker (3)<br>cracker (2)<br>deep-fried tripe (1)<br>deviled kidney (2)<br>flatbread (1)<br>freshly fed sourdough starter (2)<br>fried brain (2)<br>fried heart (1)<br>fried liver (2)<br>fruit jam (1)<br>grilled sweetbread (1)<br>hamburger helper (1)<br>hobo stove (2)<br>honey mustard (1)<br>humble pie (1)<br>juvenile sourdough starter (2)<br>leverpostej (3)<br>liver & onions (0)<br>lutefisk (4)<br>mayonnaise (1)<br>meat broth (4)<br>new york wiener (1)<br>pickled offal (6)<br>pumpkin muffin (3)<br>pumpkin yeast bread (2)<br>scrapple (2)<br>sourdough bread (2)<br>stewed tripe (1)<br>stone quern (3)<br>vegetable broth (4)<br>vegetable pie (3)<br>vegetable soup (4)<br>wastebread (3)</div></div>
+| Breadmaking<br>Culinary Fermentation<br>Dessert Baking<br>Lactofermentation<br>Principles of Baking
+|-
+| Cucina Italiana
+| 3-4
+| amatriciana pasta (3)<br>bread (3)<br>canned tomato (4)<br>cheese pizza (2)<br>chili con carne (2)<br><div class="mw-collapsible mw-collapsed">+22 more recipes<div class="mw-collapsible-content">condensed milk (2)<br>condensed milk (3)<br>eggplant parmigiana (2)<br>freshly fed sourdough starter (3)<br>garlic bread (1)<br>garlic powder (1)<br>Italian seasoning (2)<br>juvenile sourdough starter (3)<br>lasagne (3)<br>mascarpone (3)<br>meat pizza (2)<br>pasta carbonara (3)<br>pesto (2)<br>raw meatball (2)<br>serving of gelato (1)<br>sourdough bread (3)<br>spaghetti al pesto (3)<br>spaghetti bolognese (3)<br>supreme pizza (3)<br>tiramisù (2)<br>tomato sauce (4)<br>vegetable pizza (2)</div></div>
+| &mdash;
+|-
+| Dainty Dishes Fit for a King
+| 1-3
+| brioche (5)<br>brown bread (2)<br>cake (6)<br>cooked burdock greens (2)<br>dandelion tea (2)<br><div class="mw-collapsible mw-collapsed">+9 more recipes<div class="mw-collapsible-content">fried burdocks (2)<br>fried dandelions and burdocks (2)<br>glazed tenderloins (5)<br>hamburger helper (4)<br>lobster platter (5)<br>maple pie (7)<br>onigiri (3)<br>sponge cake (6)<br>vegetable aspic (4)</div></div>
+| &mdash;
+|-
+| Drink the Harvest
+| 2-4
+| apple cider (2)<br>cranberry juice (2)<br>fruit juice (2)<br>orange juice (2)
+| Canning Food<br>Food Preservation
+|-
+| Eat Your Way to a Fit Physique
+| 0-1
+| bone broth (5)<br>fried tofu (3)<br>tofu (4)<br>vegetable pizza (3)
+| &mdash;
+|-
+| family cookbook
+| 1-5
+| bratwurst (2)<br>bread (1)<br>brown bread (1)<br>burdock wine must (2)<br>butter churn (4)<br><div class="mw-collapsible mw-collapsed">+52 more recipes<div class="mw-collapsible-content">chamomile tea (1)<br>chicory brew (1)<br>cloutie dumplings (6)<br>condensed milk (2)<br>condensed milk (3)<br>cooked bamboo shoots (2)<br>cooked burdock greens (1)<br>Cullen skink (4)<br>dandelion tea (1)<br>dandelion wine must (2)<br>deviled kidney (2)<br>eggnog (2)<br>escargot (2)<br>fish and spinach bagel (2)<br>freshly fed sourdough starter (2)<br>fried bamboo shoots (2)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>fried liver (2)<br>fruit filled gelatin dessert (3)<br>fruit filled vegan gelatin dessert (1)<br>fruit pie (3)<br>glazed tenderloins (5)<br>gummy candy (2)<br>hickory nut ambrosia (5)<br>homemade gelatin dessert (3)<br>juvenile sourdough starter (2)<br>leverpostej (3)<br>lobster platter (5)<br>lotus tea (1)<br>maple syrup candy (5)<br>meat confit (3)<br>Melitzanosalata (2)<br>Mexican hot chocolate (2)<br>moonshine mash (1)<br>pine needle tea (1)<br>pumpkin muffin (3)<br>pumpkin yeast bread (1)<br>raw meatball (2)<br>raw sausage (2)<br>scrapple (2)<br>sloppy joe (1)<br>smoked sausage (2)<br>soaking dandelion (2)<br>sourdough bread (2)<br>spiked eggnog (2)<br>spurge tea (1)<br>sweet sausage (4)<br>unfermented root beer (2)<br>Valencian paella (2)<br>vegan gelatin dessert (1)<br>vegan gummy candy (2)</div></div>
+| Breadmaking<br>Dessert Baking<br>Principles of Baking<br>Principles of Frying
+|-
+| Fermenting Culture
+| 3-6
+| fermenting eggs jar (4)<br>fermenting pickle jar (3)<br>fermenting sauerkraut jar (2)<br>sauerkraut w/ sauteed onions (2)
+| Culinary Fermentation<br>Lactofermentation
+|-
+| Food Fashions for Young Moderns
+| 2-4
+| donut holes (5)<br>fermenting sauerkraut jar (4)<br>hickory nut ambrosia (6)<br>honey mustard (1)<br>lutefisk (4)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">maple pie (3)<br>mayonnaise (1)<br>sashimi (4)<br>sauerkraut w/ sauteed onions (3)<br>spaghetti al pesto (4)<br>sugar (5)</div></div>
+| &mdash;
+|-
+| Glamopolitan
+| 0-1
+| fairy bread (1)<br>faux gras (5)
+| &mdash;
+|-
+| La Vida Deliciosa: Definitive Mexican Cuisine
+| 1-4
+| beans and rice (1)<br>chili con carne (2)<br>chili powder (1)<br>corn tortilla (1)<br>cornmeal (1)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">deluxe beans and rice (2)<br>deluxe vegetarian beans and rice (1)<br>flour tortilla (1)<br>homemade burrito (3)<br>hominy (4)<br>horchata (3)<br>Mexican hot chocolate (1)<br>nopalito (0)<br>salsa (1)<br>seasoned salt (2)<br>taco (1)<br>tortilla chips (2)</div></div>
+| &mdash;
+|-
+| Liver-Licious Recipes Your Kids Will Love
+| 1-2
+| faux gras (5)<br>fried liver (1)<br>haggis (4)<br>leverpostej (1)<br>liver & onions (1)
+| &mdash;
+|-
+| Native American Foodways
+| 2-3
+| akutaq (1)<br>akutaq with fruit (1)<br>frybread (1)<br>hazelnut cake (1)<br>Indian taco (1)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">pemmican (1)<br>pemmican with fruit (1)<br>pemmican with vegetables (1)<br>succotash (1)<br>succotash deluxe (1)<br>three sisters stew (1)</div></div>
+| Breading & Battering<br>Forager Cooking
+|-
+| Offal Holiday Cooking
+| 1-3
+| artificial sausage casing (3)<br>homemade hot dog (3)<br>lung provence (2)<br>sausage casing (3)<br>scrambled eggs and brain (2)<br>stuffed heart (2)<br>töttchen (2)
+| Principles of Frying
+|-
+| Out of the Holler and into the Home: A guide to home distillation
+| 3-5
+| brandy (2)<br>denatured alcohol<br>ethanol (4)<br>gin (4)<br>gin mash (3)<br><div class="mw-collapsible mw-collapsed">+10 more recipes<div class="mw-collapsible-content">moonshine (1)<br>moonshine mash (1)<br>rum (4)<br>rum wort (4)<br>screw press (1)<br>still (3)<br>vodka (4)<br>vodka wort (4)<br>whiskey (4)<br>whiskey wort (5)</div></div>
+| Beverage Distillation<br>Brewing<br>Culinary Fermentation<br>Distillation<br>Winemaking
+|-
+| Sushi Made Easy
+| 1-4
+| cooked bamboo shoots (2)<br>fish makizushi (3)<br>fried bamboo shoots (2)<br>fried tofu (2)<br>meat temaki (3)<br><div class="mw-collapsible mw-collapsed">+9 more recipes<div class="mw-collapsible-content">onigiri (2)<br>sashimi (4)<br>soy and wheat dough (6)<br>soy sauce (3)<br>sushi rice (2)<br>tofu (3)<br>tofu stirfry (3)<br>unfermented soy sauce (6)<br>vegetable hosomaki (3)</div></div>
+| &mdash;
+|-
+| Sweets for your Sweet Child
+| 0-2
+| cake (3)<br>cookie (2)<br>fruit filled gelatin dessert (1)<br>fruit filled vegan gelatin dessert (1)<br>fruit jam (1)<br><div class="mw-collapsible mw-collapsed">+9 more recipes<div class="mw-collapsible-content">fruit pie (3)<br>gummy candy (2)<br>homemade gelatin dessert (1)<br>maple pie (3)<br>maple syrup candy (4)<br>s'mores (3)<br>sloppy joe (1)<br>vegan gelatin dessert (1)<br>vegan gummy candy (2)</div></div>
+| Dessert Baking<br>Principles of Baking
+|-
+| Tasting India
+| 1-3
+| curry (1)<br>curry with meat (1)<br>flatbread (1)<br>ghee (1)<br>vegetable samosa (2)
+| &mdash;
+|-
+| The Baker's Companion
+| 2-5
+| bread (1)<br>brioche (3)<br>brown bread (2)<br>cake (2)<br>cookie (1)<br><div class="mw-collapsible mw-collapsed">+19 more recipes<div class="mw-collapsible-content">cracker (2)<br>donut holes (2)<br>freshly fed sourdough starter (2)<br>fruit filled gelatin dessert (1)<br>fruit filled vegan gelatin dessert (1)<br>fruit pie (3)<br>gummy candy (2)<br>homemade gelatin dessert (1)<br>juvenile sourdough starter (2)<br>maple pie (3)<br>meat pie (2)<br>pumpkin muffin (2)<br>pumpkin yeast bread (1)<br>sourdough bread (2)<br>sponge cake (3)<br>strudel (3)<br>vegan gelatin dessert (1)<br>vegan gummy candy (2)<br>vegetable pie (2)</div></div>
+| Breadmaking<br>Dessert Baking<br>Patisserie Expert<br>Principles of Baking
+|-
+| The Homebrewer's Bible
+| 2-4
+| beer wort (4)<br>burdock wine must (3)<br>dandelion wine must (3)<br>fruit wine must (2)<br>growing wild koji mold (6)<br><div class="mw-collapsible mw-collapsed">+11 more recipes<div class="mw-collapsible-content">hopped mead must (2)<br>malting grain (4)<br>moonshine mash (1)<br>plain mead must (2)<br>sake (6)<br>sake mash (6)<br>seltzer wort (4)<br>soaking dandelion (3)<br>spiced mead must (2)<br>unfermented root beer (2)<br>unfinished koji rice (6)</div></div>
+| Brewing<br>Culinary Fermentation<br>Winemaking
+|-
+| The Turkish Cookbook
+| 0-2
+| baklava (2)<br>iskender kebab (2)<br>kiymali pide (2)<br>lahmacun (2)<br>manti (2)<br>menemen (2)<br>sarma (2)
+| &mdash;
+|-
+| The Vinegar Maker's Handbook
+| 1-3
+| unfermented vinegar (1)<br>vinegar (1)
+| Brewing<br>Culinary Fermentation<br>Distillation<br>Winemaking
+|-
+| Things to Do with Milk
+| 2-5
+| condensed milk (2)<br>cottage cheese (1)<br>cottage cheese with fruit (1)<br>cottage cheese with savory vegetables (1)<br>curdling milk (3)<br><div class="mw-collapsible mw-collapsed">+10 more recipes<div class="mw-collapsible-content">fermenting yogurt (3)<br>fried mozzarella sticks (1)<br>hard cheese (3)<br>mozzarella cheese (1)<br>raw butter (3)<br>serving of chocolate ice cream (2)<br>serving of frozen custard (2)<br>serving of frozen yogurt (2)<br>serving of ice cream (2)<br>serving of sorbet (2)</div></div>
+| Cheesemaking Expert<br>Principles of Cheesemaking
+|-
+| To Serve Man
+| 2-4
+| &mdash;
+| &mdash;
+|-
+| Vacuum Sealer Instructions
+| 0-1
+| fruit in syrup (1)<br>post apocalyptic 'caviar' (1)<br>salted vegetable chunk (1)
+| Food Preservation
+|-
+| Winemaking for Beginners
+| 1-2
+| brandy (2)<br>fruit wine must (2)<br>plain mead must (2)<br>screw press (1)<br>seltzer wort (2)<br>unfermented vinegar (3)
+| Brewing<br>Culinary Fermentation<br>Winemaking
+|-
+| Ye Scots Beuk o Cuikery
+| 2-4
+| bagpipes (7)<br>bratwurst (2)<br>cloutie dumplings (2)<br>Cullen skink (2)<br>deep-fried tripe (2)<br><div class="mw-collapsible mw-collapsed">+15 more recipes<div class="mw-collapsible-content">fried brain (2)<br>grilled sweetbread (2)<br>haggis (3)<br>humble pie (2)<br>kilt (3)<br>liver & onions (2)<br>meat confit (2)<br>meat pie (3)<br>raw sausage (2)<br>sausage casing (3)<br>smoked sausage (2)<br>stewed tripe (2)<br>utility kilt (7)<br>vegetable pie (3)<br>whiskey wort (5)</div></div>
+| &mdash;
+|-
+| You Can Can at Home
+| 0-1
+| bone broth (3)<br>canned beans (3)<br>canned fish (3)<br>canned fruit (3)<br>canned heart (4)<br><div class="mw-collapsible mw-collapsed">+24 more recipes<div class="mw-collapsible-content">canned liver (4)<br>canned lobster (3)<br>canned meat (3)<br>canned offal (3)<br>canned tomato (3)<br>canned vegetable (3)<br>condensed milk (2)<br>fish soup (3)<br>fruit jam (3)<br>kompot (2)<br>meat broth (3)<br>meat soup (3)<br>mushroom soup (3)<br>pickled fish (4)<br>pickled meat (4)<br>pickled offal (4)<br>pickled vegetable (4)<br>tomato sauce (3)<br>V8 (3)<br>vegetable broth (3)<br>vegetable soup (3)<br>wet cat food (3)<br>wet dog food (3)<br>woods meat soup (3)</div></div>
+| Canning Food<br>Food Preservation
+|}
+
+=== Cutting Weapons ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| All About Swords
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| blade fighter's notes
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| USMC Sword Manual Procedure
+| 1-4
+| &mdash;
+| &mdash;
+|}
+
+=== Devices ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Booby Traps, IEDs, Mines and You: A Primer
+| 0-3
+| booby trap (3)
+| &mdash;
+|-
+| FM 20-32 Mine/Countermine Operations
+| 3-6
+| booby trap (3)
+| &mdash;
+|-
+| How to Trap Anything
+| 0-4
+| bear trap (1)
+| &mdash;
+|-
+| MIT Guide to Lock Picking
+| 0-2
+| &mdash;
+| &mdash;
+|-
+| The Compleat Trapper
+| 3-6
+| &mdash;
+| &mdash;
+|-
+| The Modern Trapper
+| 0-3
+| bear trap (1)
+| &mdash;
+|-
+| The Trapper's Companion
+| 5-8
+| boiled leather cow barding with caparison (3)<br>boiled leather horse barding with caparison (3)<br>gutskin hood (6)<br>gutskin parka (6)<br>rolled fur sleeping bag (3)
+| &mdash;
+|-
+| Trapper's Life
+| 0-1
+| bear trap (1)
+| &mdash;
+|}
+
+=== Dodging ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Break a Leg!
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| Dance Dance Dance!
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| The Book of Dances
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| Treasury of Legends about Western Dancing
+| 4-5
+| &mdash;
+| &mdash;
+|}
+
+=== Ecology ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Alpha Male Quarterly
+| 0-1
+| foil cup (0)
+| &mdash;
+|-
+| Autobiography of a Mountain Man
+| 5-8
+| .410 000 shot, black powder (1)<br>.410 birdshot, black powder (1)<br>.410 scrap shot, black powder (1)<br>.410 slug, black powder (1)<br>00 shot, black powder (1)<br><div class="mw-collapsible mw-collapsed">+52 more recipes<div class="mw-collapsible-content">00 shot, black powder, scrap loaded (1)<br>antacid tablet (3)<br>antifungal drug (5)<br>baked dahlia root (1)<br>bark tea (3)<br>birdshot, black powder (1)<br>boiled leather cow barding with caparison (3)<br>boiled leather horse barding with caparison (3)<br>bone glue (1)<br>bone meal tablet (3)<br>burdock wine must (3)<br>camphine (1)<br>cattail jelly (1)<br>chamomile tea (1)<br>chicory brew (1)<br>cooked burdock greens (1)<br>curdling milk (3)<br>dandelion tea (1)<br>dandelion wine must (3)<br>dragon's breath shell, black powder (1)<br>fish bait (1)<br>flavored bone meal tablet (3)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>fungicide (3)<br>fur cloak (1)<br>gutskin hood (4)<br>gutskin parka (4)<br>haggis (6)<br>hard cheese (7)<br>hickory nut ambrosia (3)<br>jeans (3)<br>Kentucky coffee grounds (1)<br>light snare kit (1)<br>lotus tea (1)<br>meat confit (3)<br>opium tar (3)<br>pemmican (1)<br>pemmican with fruit (1)<br>pemmican with vegetables (1)<br>pine needle tea (1)<br>pine wine must (3)<br>plastic fish trap (1)<br>roasted salsify (1)<br>rolled fur sleeping bag (2)<br>shotgun slug, black powder (1)<br>skirt (3)<br>skunk spray neutralizing solution (3)<br>soaking dandelion (3)<br>spurge tea (1)<br>turpentine (1)<br>willowbark tea (3)</div></div>
+| Basic Knapping<br>Speed Knapping
+|-
+| Introduction to Plant Biology
+| 3-5
+| concentrated paralytic (5)<br>willowbark tea (4)
+| &mdash;
+|-
+| Natural Remedies of New England
+| 1-5
+| antacid tablet (1)<br>antifungal drug (3)<br>aspirin (2)<br>bone meal tablet (1)<br>cattail jelly (1)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">flavored bone meal tablet (2)<br>mugwort oil (3)<br>opium tar (2)<br>skunk spray neutralizing solution (2)<br>thyme oil (3)<br>wintergreen oil (3)</div></div>
+| &mdash;
+|-
+| Outdoor Adventures
+| 0-1
+| .410 000 shot, black powder (1)<br>.410 birdshot, black powder (1)<br>.410 scrap shot, black powder (1)<br>.410 slug, black powder (1)<br>00 shot, black powder (1)<br><div class="mw-collapsible mw-collapsed">+26 more recipes<div class="mw-collapsible-content">00 shot, black powder, scrap loaded (1)<br>birdshot, black powder (1)<br>cattail jelly (1)<br>chamomile tea (1)<br>chicory brew (1)<br>cooked burdock greens (1)<br>copper hatchet (1)<br>dandelion tea (1)<br>dragon's breath shell, black powder (1)<br>ember carrier (1)<br>fish bait (1)<br>foil cup (0)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>grappling hook (4)<br>gum blanket (2)<br>hobo stove (2)<br>light snare kit (2)<br>lotus tea (1)<br>pine needle tea (1)<br>plastic fish trap (2)<br>shotgun slug, black powder (1)<br>signal flare (2)<br>spurge tea (1)<br>stone axe (1)<br>wooden hand fishing reel (4)</div></div>
+| &mdash;
+|-
+| Outdoor Survival Guide
+| 3-6
+| antacid tablet (2)<br>antifungal drug (5)<br>baked dahlia root (1)<br>bark tea (5)<br>birchbark shoes (1)<br><div class="mw-collapsible mw-collapsed">+54 more recipes<div class="mw-collapsible-content">boiled leather cow barding with caparison (3)<br>boiled leather horse barding with caparison (3)<br>bone glue (1)<br>bone meal tablet (2)<br>burdock wine must (3)<br>butter churn (4)<br>camphine (1)<br>cattail jelly (1)<br>chamomile tea (1)<br>chicory brew (1)<br>cooked burdock greens (1)<br>curdling milk (3)<br>dandelion tea (1)<br>dandelion wine must (3)<br>ember carrier (1)<br>faux fur gloves (1)<br>fish bait (1)<br>flavored bone meal tablet (2)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>fungicide (1)<br>fur boots (1)<br>fur cloak (1)<br>fur gloves (1)<br>fur moccasins (0)<br>glove liners (2)<br>grappling hook (2)<br>grilled sweetbread (3)<br>gum blanket (2)<br>hickory nut ambrosia (3)<br>hobo stove (1)<br>large tent (1)<br>leather gloves (1)<br>light snare kit (1)<br>lotus tea (1)<br>moccasins (0)<br>mortar and pestle (0)<br>opium tar (2)<br>pine needle tea (1)<br>pine wine must (3)<br>plastic fish trap (2)<br>roasted salsify (1)<br>rolled fur sleeping bag (1)<br>soaking dandelion (3)<br>spurge tea (1)<br>stone quern (1)<br>tanning fur pelt (6)<br>tanning leather hide (6)<br>tent (1)<br>turpentine (1)<br>water purification tablet (4)<br>willowbark tea (4)<br>wooden hand fishing reel (4)<br>work gloves (2)</div></div>
+| &mdash;
+|-
+| Pitching a Tent
+| 0-3
+| baked dahlia root (1)<br>burdock wine must (3)<br>camphine (1)<br>chamomile tea (1)<br>chicory brew (1)<br><div class="mw-collapsible mw-collapsed">+20 more recipes<div class="mw-collapsible-content">cooked burdock greens (1)<br>curdling milk (3)<br>dandelion tea (1)<br>dandelion wine must (3)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>gum blanket (2)<br>large tent (1)<br>light snare kit (1)<br>lotus tea (1)<br>pine needle tea (1)<br>pine wine must (3)<br>rehydration drink (1)<br>roasted cattail rhizome (1)<br>roasted salsify (1)<br>soaking dandelion (3)<br>spurge tea (1)<br>tent (1)<br>turpentine (1)<br>wooden hand fishing reel (4)</div></div>
+| Basic Knapping<br>Speed Knapping
+|-
+| Pocket Survival Guide
+| 0-2
+| antacid tablet (3)<br>antifungal drug (5)<br>baked dahlia root (1)<br>birchbark shoes (1)<br>bone meal tablet (3)<br><div class="mw-collapsible mw-collapsed">+34 more recipes<div class="mw-collapsible-content">camphine (1)<br>cattail jelly (1)<br>chamomile tea (1)<br>chicory brew (1)<br>cooked burdock greens (1)<br>dandelion tea (1)<br>faux fur gloves (1)<br>fish bait (1)<br>flavored bone meal tablet (3)<br>foil cup (0)<br>fried burdocks (1)<br>fried dandelions and burdocks (1)<br>fungicide (2)<br>fur gloves (1)<br>fur moccasins (0)<br>glove liners (2)<br>horn-tipped arrow (1)<br>leather gloves (1)<br>light snare kit (1)<br>lotus tea (1)<br>moccasins (0)<br>monster tooth arrow (1)<br>opium tar (3)<br>pine needle tea (1)<br>plastic fish trap (1)<br>roasted cattail rhizome (1)<br>roasted salsify (1)<br>rolled fur sleeping bag (1)<br>signal flare (2)<br>skunk spray neutralizing solution (3)<br>spurge tea (1)<br>stone-tipped arrow (1)<br>turpentine (1)<br>wooden arrow (1)</div></div>
+| Basic Knapping<br>Speed Knapping
+|-
+| Survival Under Atomic Attack
+| 1-8
+| acetic acid (1)<br>acetic acid (5)<br>acetic anhydride (5)<br>acetone (4)<br>acetylene (3)<br><div class="mw-collapsible mw-collapsed">+63 more recipes<div class="mw-collapsible-content">antacid tablet (2)<br>antifungal drug (5)<br>aspirin (3)<br>baking soda (5)<br>bark tea (4)<br>bone meal tablet (2)<br>bread (6)<br>calcium carbide (3)<br>calcium chloride (4)<br>canned offal (4)<br>chloroform (4)<br>citric acid (4)<br>copper hatchet (1)<br>Dakin's solution (1)<br>diazepam (6)<br>filter mask (3)<br>flavored bone meal tablet (2)<br>formic acid (1)<br>formic acid (5)<br>freshly fed sourdough starter (6)<br>fungicide (2)<br>gas mask (3)<br>Geiger counter (off) (3)<br>grappling hook (3)<br>gum blanket (2)<br>heat pack (4)<br>heavy survivor mask (8)<br>heroin (6)<br>hydrochloric acid (1)<br>hydrochloric acid (5)<br>iodine crystals (4)<br>juvenile sourdough starter (6)<br>ketene lamp (5)<br>liquid fertilizer (2)<br>mortar and pestle (0)<br>opium tar (2)<br>oxyacetylene (3)<br>oxycodone (5)<br>potassium iodide tablet (5)<br>Prussian blue tablet (5)<br>rebreather mask (3)<br>rebreather oxygen regenerator cartridge (4)<br>rebreather oxygen regenerator filler (4)<br>rebreather scrubber cartridge, air tank (4)<br>rebreather scrubber cartridge, oxygen tank (4)<br>rebreather scrubbing filler (4)<br>saline solution (4)<br>sodium carbonate (4)<br>sodium carbonate (5)<br>sourdough bread (6)<br>stone axe (1)<br>stone quern (1)<br>sulfuric acid (1)<br>survivor firemask (8)<br>survivor half mask (8)<br>survivor mask (8)<br>thermal electric balaclava (3)<br>thermal electric gloves (3)<br>thermal electric socks (3)<br>thermal electric suit (3)<br>wastebread (6)<br>water purification tablet (4)<br>willowbark tea (4)</div></div>
+| &mdash;
+|-
+| The Wonderful World of Arthropodology
+| 3-4
+| biosilicified chitin arm guards (6)<br>biosilicified chitin armor (7)<br>biosilicified chitin gauntlets (6)<br>biosilicified chitin greaves (6)<br>biosilicified chitin helmet (6)<br><div class="mw-collapsible mw-collapsed">+8 more recipes<div class="mw-collapsible-content">biosilicified chitin sollerets (4)<br>chitin arm guards (5)<br>chitin armor (6)<br>chitin gauntlets (5)<br>chitin greaves (5)<br>chitin helmet (5)<br>chitin sollerets (3)<br>concentrated venom (5)</div></div>
+| Chitinworking
+|-
+| Through the Lens
+| 1-3
+| large tent (1)<br>soda can stove kit (1)<br>tent (1)
+| Basic Knapping<br>Speed Knapping
+|}
+
+=== Electronics ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| 2XI design binder-CLASSIFIED
+| 6-7
+| &mdash;
+| &mdash;
+|-
+| Advanced Electronics
+| 2-5
+| advanced solar panel (6)<br>atomic lamp (4)<br>battery compartment mod (3)<br>coffeemaker (1)<br>coilgun (5)<br><div class="mw-collapsible mw-collapsed">+33 more recipes<div class="mw-collapsible-content">crude heating element (1)<br>electric hair trimmer (4)<br>electrified foil (3)<br>electrified saber (3)<br>electrified épée (3)<br>electrohack (5)<br>EMP bomb (5)<br>Faraday chainmail (6)<br>Faraday platemail (6)<br>faraday sharksuit (6)<br>food dehydrator (3)<br>Geiger counter (off) (4)<br>heavy battery mod (2)<br>hotplate (1)<br>large water wheel (6)<br>large wind turbine (4)<br>light battery mod (2)<br>makeshift vacuum sealer (4)<br>medium battery mod (2)<br>portable soldering iron (1)<br>power converter (2)<br>powered quarterstaff (3)<br>programmable autopilot (3)<br>radio activation mod (3)<br>reading light (3)<br>recharging station (6)<br>security camera (6)<br>solar panel (6)<br>soldering iron (2)<br>UPS (off) (4)<br>UPS conversion mod (3)<br>water purifier (3)<br>water wheel (6)</div></div>
+| &mdash;
+|-
+| Amateur Home Radio for Enthusiasts
+| 4-8
+| amplifier circuit (3)<br>antenna (1)<br>directional antenna (3)<br>noise emitter (off) (1)<br>radio (2)<br>signal receiver (1)
+| &mdash;
+|-
+| anti-materiel turret schematics
+| 7-7
+| inactive M2HB autonomous CROWS II (7)
+| &mdash;
+|-
+| Arduino Experiments
+| 2-4
+| turret control unit (4)<br>turret mount (2)
+| &mdash;
+|-
+| Augmentative Tech Review
+| 4-5
+| &mdash;
+| &mdash;
+|-
+| cleaner bot schematics
+| 7-7
+| inactive cleaner bot (7)
+| &mdash;
+|-
+| computer printout
+| 6+
+| heavy plutonium tool battery (6)
+| &mdash;
+|-
+| dispatch schematics
+| 7-7
+| inactive dispatch (8)
+| &mdash;
+|-
+| Electronic Circuit Theory
+| 3-6
+| advanced solar panel (6)<br>coilgun (5)<br>crude heating element (1)<br>electric hair trimmer (3)<br>electric lantern (off) (2)<br><div class="mw-collapsible mw-collapsed">+26 more recipes<div class="mw-collapsible-content">electrified foil (3)<br>electrified saber (3)<br>electrified épée (3)<br>Faraday chainmail (6)<br>Faraday platemail (6)<br>faraday sharksuit (6)<br>food dehydrator (3)<br>Geiger counter (off) (4)<br>hand-crank charger (3)<br>handheld game system (7)<br>large water wheel (6)<br>large wind turbine (4)<br>power converter (2)<br>powered quarterstaff (3)<br>programmable autopilot (3)<br>radio activation mod (2)<br>RC car (7)<br>recharging station (6)<br>security camera (6)<br>signal receiver (2)<br>solar panel (6)<br>transponder circuit (2)<br>UPS conversion mod (3)<br>vehicle forge rig (8)<br>vehicle kiln (8)<br>water wheel (6)</div></div>
+| &mdash;
+|-
+| grocery bot schematics
+| 7-7
+| inactive grocery bot (7)
+| &mdash;
+|-
+| Ham Radio Illustrated
+| 0-1
+| antenna (1)<br>back-up beeper (2)<br>battery charger (1)<br>bicycle alternator (2)<br>car battery (2)<br><div class="mw-collapsible mw-collapsed">+23 more recipes<div class="mw-collapsible-content">car headlight (2)<br>coffeemaker (3)<br>directed floodlight (2)<br>electric lantern (off) (4)<br>flashlight (off) (1)<br>floodlight (2)<br>hand-crank charger (3)<br>headlamp (0)<br>heavy tool battery (2)<br>hotplate (3)<br>large storage battery (2)<br>makeshift vacuum sealer (6)<br>medium storage battery (2)<br>micro electric motor (2)<br>motorbike alternator (2)<br>motorbike battery (2)<br>small electric motor (2)<br>tiny electric motor (2)<br>tool battery (2)<br>very large storage battery (2)<br>wearable camera (0)<br>wearable professional camera (0)<br>wide-angle car headlight (2)</div></div>
+| &mdash;
+|-
+| lab defense bot schematics
+| 7-7
+| &mdash;
+| &mdash;
+|-
+| lab journal-Herrera
+| 5-8
+| bionic power conversion mod (4)<br>inactive autonomous M240 CROWS II (7)<br>inactive autonomous M249 CROWS II (7)<br>inactive C-4 hack (6)<br>inactive EMP hack (6)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">inactive flashbang hack (6)<br>inactive grenade hack (6)<br>inactive manhack (6)<br>inactive taser hack (5)<br>inactive tear gas hack (6)<br>inactive turret (7)<br>programmable autopilot (3)<br>RC control (5)<br>remote vehicle controller (5)<br>teleport pad (8)<br>UPS (off) (4)<br>UPS conversion mod (3)</div></div>
+| &mdash;
+|-
+| military dispatch schematics
+| 7-7
+| inactive military dispatch (8)
+| &mdash;
+|-
+| milspec searchlight schematics
+| 7-7
+| &mdash;
+| &mdash;
+|-
+| miner bot schematics
+| 7-7
+| inactive demining bot (7)
+| &mdash;
+|-
+| nurse bot schematics
+| 7-7
+| inactive nurse bot (7)
+| &mdash;
+|-
+| plans for a radio repeater mod
+| 2+
+| radio repeater mod (2)
+| &mdash;
+|-
+| Robots for Fun & Profit
+| 5-10
+| drive by wire controls (7)<br>hand-crank charger (4)<br>handheld game system (6)<br>inactive autonomous M240 CROWS II (9)<br>inactive autonomous M249 CROWS II (9)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">inactive C-4 hack (7)<br>inactive EMP hack (7)<br>inactive flashbang hack (7)<br>inactive grenade hack (7)<br>inactive manhack (7)<br>inactive taser hack (6)<br>inactive tear gas hack (7)<br>inactive turret (9)<br>RC car (6)<br>RC control (5)<br>recharging station (5)<br>remote vehicle controller (5)</div></div>
+| &mdash;
+|-
+| security bot schematics
+| 7-7
+| inactive M202A1 TALON UGV (7)<br>inactive TALON UGV (7)
+| &mdash;
+|-
+| skitterbot schematics
+| 7-7
+| inactive skitterbot (7)
+| &mdash;
+|-
+| trifacet handling procedures
+| 3-6
+| &mdash;
+| &mdash;
+|-
+| What's a Transistor?
+| 0-3
+| advanced solar panel (7)<br>amplifier circuit (1)<br>battery charger (0)<br>battery compartment mod (3)<br>bicycle alternator (2)<br><div class="mw-collapsible mw-collapsed">+38 more recipes<div class="mw-collapsible-content">car battery (2)<br>car headlight (1)<br>coffeemaker (2)<br>crude heating element (1)<br>directed floodlight (1)<br>electric lantern (off) (3)<br>flashlight (off) (0)<br>floodlight (1)<br>heavy battery mod (2)<br>heavy tool battery (2)<br>hotplate (2)<br>large storage battery (2)<br>large water wheel (7)<br>large wind turbine (4)<br>light battery mod (2)<br>makeshift vacuum mold (5)<br>makeshift vacuum sealer (5)<br>medium battery mod (2)<br>medium storage battery (2)<br>micro electric motor (2)<br>motorbike alternator (2)<br>motorbike battery (2)<br>portable soldering iron (1)<br>power converter (1)<br>programmable autopilot (3)<br>reading light (3)<br>signal receiver (1)<br>small electric motor (2)<br>solar panel (7)<br>soldering iron (1)<br>tiny electric motor (2)<br>tool battery (2)<br>transponder circuit (1)<br>UPS conversion mod (3)<br>very large storage battery (2)<br>water purifier (2)<br>water wheel (7)<br>wide-angle car headlight (1)</div></div>
+| &mdash;
+|}
+
+=== Fabrication ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| 101 Crafts for Beginners
+| 0-3
+| bipod (2)<br>bolt cutters (4)<br>bow saw (3)<br>charcoal kiln (2)<br>charcoal smoker (3)<br><div class="mw-collapsible mw-collapsed">+30 more recipes<div class="mw-collapsible-content">concrete mixer (7)<br>electric hair trimmer (4)<br>electric kiln (4)<br>entrenching tool (3)<br>folding stock (3)<br>forward grip (3)<br>hacksaw (3)<br>hand-crank charger (4)<br>headlamp (0)<br>hoe (3)<br>lump hammer (3)<br>makeshift jack (2)<br>makeshift stethoscope (1)<br>manual oil press (2)<br>mechanical pump (4)<br>nut and bolt (3)<br>pistol stock (3)<br>pistol stock (4)<br>recoil stock (3)<br>scissor jack (3)<br>shovel (2)<br>sledgehammer (3)<br>soda can stove kit (1)<br>telescopic pistol sight (3)<br>telescopic sight (3)<br>thread cutting set (3)<br>wearable camera (0)<br>wearable professional camera (0)<br>wood forward grip (2)<br>wood saw (3)</div></div>
+| &mdash;
+|-
+| 101 Home Repairs
+| 0-2
+| water faucet (4)
+| Basic Carpentry<br>Plumbing
+|-
+| A History of Firefighting
+| 7-9
+| crash axe (6)<br>entry suit (8)<br>filter mask (3)<br>fire axe (8)<br>flame-resistant cowl (6)<br><div class="mw-collapsible mw-collapsed">+13 more recipes<div class="mw-collapsible-content">flame-resistant gloves (6)<br>flame-resistant socks (6)<br>flame-resistant suit (6)<br>gas mask (3)<br>Halligan bar (8)<br>New York hook (6)<br>rebreather oxygen regenerator cartridge (4)<br>rebreather oxygen regenerator filler (4)<br>rebreather scrubber cartridge, air tank (4)<br>rebreather scrubber cartridge, oxygen tank (4)<br>rebreather scrubbing filler (4)<br>survivor firehood (7)<br>survivor firemask (7)</div></div>
+| &mdash;
+|-
+| alloying reference manual
+| 4-7
+| bronze fragment (3)<br>bronze ingot (2)<br>large bronze ingot (2)<br>small bronze ingot (2)
+| Principles of Metalworking
+|-
+| Antique Adornments
+| 6-7
+| copper bracelet (6)<br>copper necklace (6)<br>gold bracelet (6)<br>gold necklace (6)<br>gold ring (6)<br>golden crown (6)<br>silver bracelet (6)<br>silver necklace (6)
+| Fine Metalsmithing<br>Gem Setting
+|-
+| Arms and Armor of Imperial China
+| 5-10
+| black gunpowder (5)<br>boiled leather cow barding with caparison (6)<br>boiled leather horse barding with caparison (6)<br>bronze fragment (4)<br>conical helm (5)<br><div class="mw-collapsible mw-collapsed">+19 more recipes<div class="mw-collapsible-content">crude paper breastplate (2)<br>dao (5)<br>iron cow armor (4)<br>iron horse armor (4)<br>ji (5)<br>jian (8)<br>leather arm guards (4)<br>leather cuirass (4)<br>leather gauntlets (4)<br>leather helmet (6)<br>leather leg guards (4)<br>leather pauldrons (3)<br>light crossbow (5)<br>paper ballistic plate (2)<br>paper ballistic side plate (2)<br>qiang (6)<br>repeating crossbow (4)<br>rope dart (1)<br>suit of boiled leather armor (6)</div></div>
+| Redsmithing
+|-
+| Artillery of the Ancients
+| 4-6
+| ballista bolt (4)<br>carroballista (4)
+| &mdash;
+|-
+| Birdhouse Monthly
+| 0-1
+| &mdash;
+| Basic Carpentry
+|-
+| Building for Beginners
+| 0-3
+| &mdash;
+| Basic Carpentry<br>Plumbing
+|-
+| Concrete Constructions
+| 3-4
+| cement powder (4)<br>dry concrete mix (4)<br>mortar (2)<br>quicklime (3)
+| &mdash;
+|-
+| Crafty Crafter's Quarterly
+| 0-1
+| makeshift stethoscope (1)
+| Pottery
+|-
+| DIY Compendium
+| 3-6
+| ball bearing (1)<br>BB (1)<br>bike rack (5)<br>block and tackle (2)<br>bolt cutters (4)<br><div class="mw-collapsible mw-collapsed">+86 more recipes<div class="mw-collapsible-content">bow saw (4)<br>bronze chisel (3)<br>chainmail chausses (6)<br>chainmail coif (6)<br>chainmail gloves (6)<br>chainmail link (1)<br>chainmail sheet (2)<br>chainmail skirt (6)<br>chainmail sleeves (6)<br>chainmail vest (6)<br>charcoal forge (4)<br>charcoal kiln (2)<br>charcoal smoker (2)<br>concrete mixer (7)<br>copper pot (4)<br>drift (4)<br>duct tape (3)<br>electric forge (4)<br>electric hair trimmer (3)<br>electric kiln (4)<br>entrenching tool (4)<br>Faraday chainmail (6)<br>Faraday platemail (6)<br>faraday sharksuit (6)<br>fire axe (9)<br>folding table (2)<br>gas forge (4)<br>hacksaw (4)<br>hand pump (4)<br>hand-crank charger (3)<br>hard plating (5)<br>headlamp (0)<br>hoe (4)<br>hotcut (4)<br>kinetic bullet puller (7)<br>lump hammer (4)<br>makeshift jack (2)<br>makeshift steam engine (5)<br>makeshift stethoscope (1)<br>manual oil press (2)<br>mechanical pump (4)<br>metal butchering rack (2)<br>metal smoking rack (2)<br>metalworking chisel (3)<br>minifreezer (5)<br>nut and bolt (3)<br>pedal powered grindstone (3)<br>pickaxe (6)<br>pistol stock (4)<br>portable dishwasher (6)<br>reinforced headlight (3)<br>reinforced security camera (3)<br>reinforced wide-angle headlight (3)<br>reinforced yoke and harness (5)<br>rollerblades (5)<br>rollerskates (5)<br>rubber cement (3)<br>scissor jack (3)<br>shovel (3)<br>sledgehammer (4)<br>spiked plating (3)<br>steel boom (6)<br>steel scraper (2)<br>swage and die set (4)<br>telescopic cantilever (4)<br>telescopic pistol sight (3)<br>telescopic sight (3)<br>thermal electric balaclava (3)<br>thermal electric gloves (3)<br>thermal electric socks (3)<br>thermal electric suit (3)<br>thread cutting set (3)<br>tin powder (4)<br>tinted glass lenses (5)<br>vehicle controls (5)<br>vehicle cooler (5)<br>vehicle forge rig (8)<br>vehicle kiln (8)<br>washing machine (6)<br>wearable camera (0)<br>wearable professional camera (0)<br>welding goggles (3)<br>wood axe (4)<br>wood saw (4)<br>wooden block and tackle (2)<br>yoke and harness (5)</div></div>
+| &mdash;
+|-
+| Engineering 301
+| 3-6
+| bike rack (5)<br>copper hatchet (2)<br>makeshift steam engine (5)<br>pickaxe (5)<br>stone axe (2)<br>yoke and harness (5)
+| &mdash;
+|-
+| Historic Warfare: The Bronze Age
+| 3-4
+| bronze fragment (3)<br>bronze ingot (3)<br>bronze knife (3)<br>bronze mace (4)<br>bronze spear (3)<br><div class="mw-collapsible mw-collapsed">+9 more recipes<div class="mw-collapsible-content">copper knife (3)<br>copper pike (3)<br>copper spear (3)<br>dao (5)<br>ji (5)<br>khopesh (5)<br>large bronze ingot (3)<br>small bronze ingot (3)<br>xiphos (5)</div></div>
+| Redsmithing
+|-
+| lab journal-Gustav
+| 9-10
+| &mdash;
+| &mdash;
+|-
+| metal casting reference manual
+| 4-7
+| aluminum ingot (2)<br>brass ingot (2)<br>copper ingot (2)<br>gold ingot (2)<br>large aluminum ingot (2)<br><div class="mw-collapsible mw-collapsed">+19 more recipes<div class="mw-collapsible-content">large brass ingot (2)<br>large copper ingot (2)<br>large gold ingot (2)<br>large lead ingot (2)<br>large silver ingot (2)<br>large tin ingot (2)<br>large zinc ingot (2)<br>lead ingot (2)<br>lead sling bullet (2)<br>silver ingot (2)<br>small aluminum ingot (2)<br>small brass ingot (2)<br>small gold ingot (2)<br>small lead ingot (2)<br>small silver ingot (2)<br>small tin ingot (2)<br>small zinc ingot (2)<br>tin ingot (2)<br>zinc ingot (2)</div></div>
+| Principles of Metalworking
+|-
+| Plastics & Polymers: Projects for the Classroom
+| 4-7
+| 2.5 L canteen (3)<br>dry bag (3)<br>elbow pads (2)<br>funnel (2)<br>gallon jug (2)<br><div class="mw-collapsible mw-collapsed">+14 more recipes<div class="mw-collapsible-content">knee pads (2)<br>large dry bag (4)<br>large plastic bottle (2)<br>petpack (1)<br>plastic bottle (2)<br>plastic canteen (3)<br>plastic jack o'lantern (1)<br>plastic rake (2)<br>plastic shin guards (2)<br>plastic snow shovel (2)<br>plastic soap bottle (2)<br>plastic stopcock (3)<br>retractable telescope (3)<br>small plastic bottle (2)</div></div>
+| Plastic Working
+|-
+| Rivtech design binder
+| 6-7
+| 5x50mm flechette, reloaded (4)<br>atomic coffeemaker (8)<br>wearable RX12 jet injector (5)
+| &mdash;
+|-
+| Studies in Historic Armorsmithing
+| 5-10
+| armet helm (7)<br>barbute helm (5)<br>boiled leather cow barding with caparison (6)<br>boiled leather horse barding with caparison (6)<br>brigandine gloves (5)<br><div class="mw-collapsible mw-collapsed">+64 more recipes<div class="mw-collapsible-content">brigandine vest (6)<br>bronze cow armor (4)<br>bronze cuirass (4)<br>bronze fragment (3)<br>bronze greaves (4)<br>bronze helmet (4)<br>bronze horse armor (4)<br>bronze vambraces (4)<br>chainmail aventail (6)<br>chainmail chausses (6)<br>chainmail coif (6)<br>chainmail gloves (6)<br>chainmail link (1)<br>chainmail sheet (2)<br>chainmail skirt (6)<br>chainmail sleeves (6)<br>chainmail vest (6)<br>charcoal forge (5)<br>Corinthian helm (5)<br>drift (5)<br>electric forge (5)<br>galea (5)<br>gas forge (5)<br>great helm (6)<br>hotcut (5)<br>iron cow armor (4)<br>iron horse armor (4)<br>kettle helm (4)<br>leather arm guards (4)<br>leather cuirass (4)<br>leather gauntlets (4)<br>leather helmet (6)<br>leather leg guards (4)<br>leather pauldrons (3)<br>lorica segmentata (8)<br>metalworking chisel (5)<br>nasal helm (4)<br>pedal powered grindstone (4)<br>plate arm guards (7)<br>plate aventail (4)<br>plate cuirass (7)<br>plate gauntlets (7)<br>plate leg guards (6)<br>plate pauldrons (7)<br>plate sollerets (7)<br>plate tasset (5)<br>quilted arming pants (3)<br>quilted coif (3)<br>quilted gambeson (3)<br>quilted surcoat (3)<br>sallet helm (7)<br>splint arm guards (5)<br>splint leg guards (5)<br>steel cow armor (7)<br>steel horse armor (7)<br>steel scraper (3)<br>suit of boiled leather armor (6)<br>swage and die set (5)<br>visored plate helm (7)<br>wool aketon (3)<br>wool aketon vest (3)<br>wool arming gloves (3)<br>wool arming pants (3)<br>wool coif (3)</div></div>
+| Armorsmithing
+|-
+| The Art of Glassblowing
+| 4-7
+| 0.5 L glass jar (4)<br>3 L glass jar (5)<br>broken glass (5)<br>crude glass lens (5)<br>disconnected glassblower's crucible (5)<br><div class="mw-collapsible mw-collapsed">+8 more recipes<div class="mw-collapsible-content">glass bottle (5)<br>glass flask (4)<br>glass pipe (6)<br>hand mirror (5)<br>marble (4)<br>separation funnel (5)<br>test tube (4)<br>tinted glass lenses (4)</div></div>
+| Glassblowing
+|-
+| The Art of Japanese Armormaking
+| 5-10
+| charcoal forge (5)<br>drift (5)<br>electric forge (5)<br>gas forge (5)<br>hotcut (5)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">kabuto (8)<br>metalworking chisel (5)<br>pedal powered grindstone (4)<br>steel scraper (3)<br>swage and die set (5)<br>ō-yoroi (8)</div></div>
+| Armorsmithing
+|-
+| The Art of Warfare in Precolumbian Mesoamericas
+| 5-8
+| bronze tipped atlatl spear (5)<br>glass-bladed macuahuitl (3)<br>leather arm guards (4)<br>leather cuirass (4)<br>leather gauntlets (4)<br>leather leg guards (4)<br>leather pauldrons (3)<br>steel bladed macuahuitl (5)<br>steel tipped atlatl spear (5)<br>tooth-bladed macuahuitl (3)
+| &mdash;
+|-
+| The Bowyer's Buddy
+| 3-5
+| bullet crossbow (1)<br>composite bow (4)<br>compound war bow (9)<br>double-string crossbow (1)<br>hand crossbow (3)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">heavy crossbow (6)<br>latchet crossbow (1)<br>light crossbow (1)<br>wooden short bow (1)<br>wooden target bow (3)<br>wooden war bow (5)</div></div>
+| Bowyery
+|-
+| The Bronze Age Encyclopedia
+| 3-7
+| bronze axe (4)<br>bronze bush hook (5)<br>bronze chisel (4)<br>bronze cow armor (4)<br>bronze cuirass (4)<br><div class="mw-collapsible mw-collapsed">+25 more recipes<div class="mw-collapsible-content">bronze fragment (2)<br>bronze greaves (4)<br>bronze hammer (4)<br>bronze helmet (4)<br>bronze hoe (4)<br>bronze horse armor (4)<br>bronze ingot (2)<br>bronze knife (3)<br>bronze mace (4)<br>bronze nail puller (4)<br>bronze pickaxe (4)<br>bronze sickle (4)<br>bronze spear (3)<br>bronze vambraces (4)<br>bronze wood saw (4)<br>copper knife (3)<br>copper pike (3)<br>copper spear (3)<br>Corinthian helm (4)<br>dao (4)<br>ji (4)<br>khopesh (4)<br>large bronze ingot (2)<br>small bronze ingot (2)<br>xiphos (4)</div></div>
+| Principles of Metalworking<br>Redsmithing
+|-
+| The Complete Home Repair Guide
+| 5-8
+| pilot light (5)<br>water faucet (5)
+| Basic Carpentry<br>Plumbing
+|-
+| The Fletcher's Friend
+| 2-4
+| birchbark quiver (2)<br>bone glue (1)<br>crude wooden arrow (1)<br>crude wooden bolt (1)<br>flammable arrow (5)<br><div class="mw-collapsible mw-collapsed">+16 more recipes<div class="mw-collapsible-content">horn-tipped arrow (1)<br>large birchbark quiver (3)<br>large pipe quiver (2)<br>large quiver (2)<br>monster tooth arrow (1)<br>monster tooth bolt (3)<br>multi-function quiver (3)<br>nylon quiver (1)<br>pipe quiver (1)<br>quiver (1)<br>stone-tipped arrow (1)<br>wooden arrow (1)<br>wooden bodkin arrow (3)<br>wooden bodkin bolt (3)<br>wooden broadhead arrow (3)<br>wooden broadhead bolt (3)</div></div>
+| Fletching
+|-
+| The Handloader's Helper
+| 3-6
+| .22 FMJ, matchhead powder (1)<br>.22 FMJ, reloaded (1)<br>.22 LR FMJ, black powder (1)<br>.22 LR, black powder (1)<br>.22 LR, matchhead powder (1)<br><div class="mw-collapsible mw-collapsed">+261 more recipes<div class="mw-collapsible-content">.22 LR, reloaded (1)<br>.223 Remington, black powder (1)<br>.223 Remington, reloaded (1)<br>.270 Winchester casing (3)<br>.270 Winchester FMJ, black powder (1)<br>.270 Winchester FMJ, reloaded (1)<br>.270 Winchester JSP, black powder (1)<br>.270 Winchester JSP, reloaded (1)<br>.30 Carbine JSP, black powder (3)<br>.30 Carbine JSP, matchhead powder (3)<br>.30 Carbine JSP, reloaded (3)<br>.30 Carbine, black powder (3)<br>.30 Carbine, matchhead powder (3)<br>.30 Carbine, reloaded (3)<br>.30-06 5-round clip (2)<br>.30-06 FMJ, black powder (3)<br>.30-06 FMJ, reloaded (3)<br>.30-06 JSP, black powder (3)<br>.30-06 JSP, reloaded (3)<br>.30-06 M2 AP, black powder (3)<br>.30-06 M2 AP, reloaded (3)<br>.30-06 tracer, black powder (2)<br>.30-06 tracer, reloaded (2)<br>.300 AAC Blackout subsonic, black powder (3)<br>.300 AAC Blackout subsonic, reloaded (3)<br>.300 AAC Blackout, black powder (3)<br>.300 AAC Blackout, reloaded (3)<br>.300 Winchester Magnum, black powder (4)<br>.300 Winchester Magnum, reloaded (4)<br>.300BLK casing (3)<br>.303 British FMJ, black powder (3)<br>.303 British FMJ, reloaded (3)<br>.303 British JSP, black powder (3)<br>.303 British JSP, reloaded (3)<br>.303 British OTM, black powder (3)<br>.303 British OTM, reloaded (3)<br>.308 Winchester, black powder (2)<br>.308 Winchester, reloaded (2)<br>.32 ACP JHP, black powder (5)<br>.32 ACP JHP, matchhead powder (5)<br>.32 ACP JHP, reloaded (5)<br>.32 ACP, black powder (5)<br>.32 ACP, matchhead powder (5)<br>.32 ACP, reloaded (5)<br>.338 Lapua AP485, black powder (6)<br>.338 Lapua AP485, reloaded (6)<br>.338 Lapua API526, black powder (6)<br>.338 Lapua API526, reloaded (6)<br>.338 Lapua HPBT, black powder (6)<br>.338 Lapua HPBT, reloaded (6)<br>.357 Magnum FMJ, black powder (4)<br>.357 Magnum FMJ, matchhead powder (4)<br>.357 Magnum FMJ, reloaded (4)<br>.357 Magnum JHP, black powder (4)<br>.357 Magnum JHP, matchhead powder (4)<br>.357 Magnum JHP, reloaded (4)<br>.357 SIG casing (3)<br>.357 SIG FMJ, black powder (2)<br>.357 SIG FMJ, matchhead powder (2)<br>.357 SIG FMJ, reloaded (2)<br>.357 SIG JHP, black powder (2)<br>.357 SIG JHP, matchhead powder (2)<br>.357 SIG JHP, reloaded (2)<br>.36 paper cartridge (3)<br>.38 Special +P, reloaded (2)<br>.38 Special casing (3)<br>.38 Special FMJ, black powder (3)<br>.38 Special FMJ, matchhead powder (3)<br>.38 Special FMJ, reloaded (3)<br>.38 Special JHP, black powder (2)<br>.38 Special JHP, matchhead powder (2)<br>.38 Special JHP, reloaded (2)<br>.38 Super FMJ, black powder (4)<br>.38 Super FMJ, matchhead powder (2)<br>.38 Super FMJ, reloaded (2)<br>.38 Super JHP, black powder (4)<br>.38 Super JHP, matchhead powder (4)<br>.38 Super JHP, reloaded (4)<br>.380 ACP +P, reloaded (4)<br>.380 ACP casing (3)<br>.380 ACP FMJ, black powder (3)<br>.380 ACP FMJ, matchhead powder (3)<br>.380 ACP FMJ, reloaded (3)<br>.380 ACP JHP, black powder (2)<br>.380 ACP JHP, matchhead powder (2)<br>.380 ACP JHP, reloaded (2)<br>.40 S&W casing (3)<br>.40 S&W FMJ, black powder (4)<br>.40 S&W FMJ, matchhead powder (4)<br>.40 S&W FMJ, reloaded (4)<br>.40 S&W JHP, black powder (3)<br>.40 S&W JHP, matchhead powder (3)<br>.40 S&W JHP, reloaded (3)<br>.410 000 shot, black powder (2)<br>.410 000 shot, reloaded (2)<br>.410 birdshot, black powder (2)<br>.410 birdshot, reloaded (2)<br>.410 slug, black powder (2)<br>.410 slug, reloaded (2)<br>.44 Magnum FMJ, black powder (3)<br>.44 Magnum FMJ, reloaded (3)<br>.44 Magnum, black powder (3)<br>.44 Magnum, reloaded (3)<br>.44 paper cartridge (3)<br>.45 ACP casing (3)<br>.45 ACP FMJ, black powder (4)<br>.45 ACP JHP, black powder (3)<br>.45 ACP JHP, matchhead powder (3)<br>.45 ACP JHP, reloaded (3)<br>.45 Colt +P FMJ, reloaded (3)<br>.45 Colt +P JHP, reloaded (3)<br>.45 Colt casing (3)<br>.45 Colt FMJ, black powder (3)<br>.45 Colt FMJ, matchhead powder (3)<br>.45 Colt JHP, black powder (3)<br>.45 Colt JHP, matchhead powder (3)<br>.45 Colt LFN, black powder (3)<br>.45 Colt LFN, matchhead powder (3)<br>.45 Colt LFN, reloaded (3)<br>.45 FMJ, matchhead powder (4)<br>.45 FMJ, reloaded (4)<br>.45-70 +P penetrator, reloaded (2)<br>.45-70 LFN, black powder (2)<br>.45-70 LFN, reloaded (2)<br>.45-70 SP, reloaded (2)<br>.450 Bushmaster FTX, black powder (2)<br>.450 Bushmaster FTX, reloaded (2)<br>.450 Bushmaster Xtreme Hunter, black powder (2)<br>.450 Xtreme Hunter, reloaded (2)<br>.454 Casull, black powder (6)<br>.454 Casull, reloaded (6)<br>.458 WM, black powder (7)<br>.458 WM, reloaded (7)<br>.460 Rowland casing (3)<br>.460 Rowland FMJ, black powder (3)<br>.460 Rowland FMJ, reloaded (3)<br>.460 Rowland, black powder (3)<br>.460 Rowland, reloaded (3)<br>.50 AE casing (3)<br>.50 AE FMJ, black powder (7)<br>.50 AE FMJ, matchhead powder (7)<br>.50 AE FMJ, reloaded (7)<br>.50 AE JHP, black powder (7)<br>.50 AE JHP, matchhead powder (7)<br>.50 AE JHP, reloaded (7)<br>.50 Beowulf XTP, black powder (2)<br>.50 Beowulf XTP, reloaded (2)<br>.50 Beowulf Xtreme Penetrator, black powder (2)<br>.50 Beowulf Xtreme Penetrator, reloaded (2)<br>.50 BMG AP, black powder (7)<br>.50 BMG AP, reloaded (7)<br>.50 BMG Match, black powder (6)<br>.50 BMG Match, reloaded (6)<br>.50 BMG tracer, black powder (8)<br>.50 BMG tracer, reloaded (8)<br>.500 S&W Magnum, black powder (7)<br>.500 S&W Magnum, reloaded (7)<br>.62 paper cartridge (2)<br>00 shot, black powder (2)<br>00 shot, reloaded (2)<br>10mm Auto +P, reloaded (4)<br>10mm Auto FMJ, black powder (4)<br>10mm Auto FMJ, matchhead powder (4)<br>10mm Auto FMJ, reloaded (4)<br>10mm Auto JHP, black powder (4)<br>10mm Auto JHP, matchhead powder (4)<br>10mm Auto JHP, reloaded (4)<br>4.6x30mm, black powder (3)<br>4.6x30mm, reloaded (3)<br>40x46mm M118 buckshot, black powder (3)<br>40x46mm M118 buckshot, reloaded (3)<br>40x46mm M118 flechette, black powder (3)<br>40x46mm M118 flechette, reloaded (3)<br>40x46mm M118 slug, black powder (3)<br>40x46mm M118 slug, reloaded (3)<br>40x46mm M199 buckshot, black powder (3)<br>40x46mm M199 buckshot, reloaded (3)<br>40x46mm M199 flechette, black powder (3)<br>40x46mm M199 flechette, reloaded (3)<br>40x46mm M199 slug, black powder (3)<br>40x46mm M199 slug, reloaded (3)<br>40x53mm buckshot, black powder (3)<br>40x53mm buckshot, reloaded (3)<br>40x53mm flechette, black powder (3)<br>40x53mm flechette, reloaded (3)<br>40x53mm slug, black powder (3)<br>40x53mm slug, reloaded (3)<br>5.45x39mm AP, black powder (2)<br>5.45x39mm AP, reloaded (2)<br>5.45x39mm, black powder (2)<br>5.45x39mm, reloaded (2)<br>5.56 NATO tracer, black powder (5)<br>5.56 NATO tracer, reloaded (5)<br>5.56 NATO, black powder (3)<br>5.56 NATO, reloaded (3)<br>5.7x28mm, black powder (3)<br>5.7x28mm, reloaded (3)<br>7.62x25mm FMJ, black powder (3)<br>7.62x25mm FMJ, matchhead powder (3)<br>7.62x25mm FMJ, reloaded (3)<br>7.62x39mm 10-round clip (2)<br>7.62x39mm FMJ, black powder (2)<br>7.62x39mm FMJ, reloaded (2)<br>7.62x39mm JHP, black powder (2)<br>7.62x39mm JHP, reloaded (2)<br>7.62x51mm tracer, black powder (5)<br>7.62x51mm tracer, reloaded (5)<br>7.62x51mm, black powder (2)<br>7.62x51mm, reloaded (2)<br>7.62x54mmR 5-round clip (2)<br>7.62x54mmR, black powder (3)<br>7.62x54mmR, reloaded (3)<br>7.7x58mm Japanese JSP, black powder (3)<br>7.7x58mm Japanese JSP, reloaded (3)<br>9x18mm +P+, reloaded (3)<br>9x18mm FMJ, black powder (3)<br>9x18mm FMJ, matchhead powder (3)<br>9x18mm FMJ, reloaded (3)<br>9x18mm, black powder (1)<br>9x18mm, matchhead powder (1)<br>9x18mm, reloaded (1)<br>9x19mm +P, reloaded (4)<br>9x19mm 10-round clip (2)<br>9x19mm FMJ, black powder (3)<br>9x19mm FMJ, matchhead powder (3)<br>9x19mm FMJ, reloaded (3)<br>9x19mm JHP, black powder (2)<br>9x19mm JHP, matchhead powder (2)<br>9x19mm JHP, reloaded (2)<br>birdshot paper cartridge (2)<br>birdshot, black powder (1)<br>birdshot, reloaded (1)<br>blunderbuss flechettes (2)<br>blunderbuss scrap shot (2)<br>blunderbuss shot (2)<br>blunderbuss slug (2)<br>buckshot paper cartridge (2)<br>dragon's breath shell, black powder (3)<br>dragon's breath shell, reloaded (3)<br>flechette shell, black powder (4)<br>flechette shell, reloaded (4)<br>hand press (2)<br>incendiary (3)<br>kinetic bullet puller (6)<br>large pistol primer (2)<br>large rifle primer (2)<br>M1 Garand 8-round clip (2)<br>mixed smokeless gunpowder (1)<br>pipe cleaner (0)<br>pyrotechnic paper cartridge (2)<br>retooled STANAG 20-round magazine (2)<br>retooled STANAG 20-round magazine with ranger plate (2)<br>retooled STANAG 30-round magazine (2)<br>retooled STANAG 30-round magazine with ranger plate (2)<br>shotgun primer (2)<br>shotgun slug, black powder (3)<br>shotgun slug, reloaded (3)<br>signal flare (3)<br>small game rifle 19-round tube loader (2)<br>small pistol primer (2)<br>small rifle primer (2)</div></div>
+| Handloading
+|-
+| The Historic Weaponsmith
+| 5-10
+| arming sword (6)<br>bagh nakh (9)<br>baselard (4)<br>battle axe (8)<br>broadsword (6)<br><div class="mw-collapsible mw-collapsed">+47 more recipes<div class="mw-collapsible-content">bronze fragment (4)<br>bullet crossbow (6)<br>cavalry saber (6)<br>charcoal forge (5)<br>cutlass (6)<br>double-string crossbow (6)<br>drift (5)<br>electric forge (5)<br>estoc (6)<br>falx (5)<br>gas forge (5)<br>glaive (6)<br>goedendag (3)<br>halberd (6)<br>hand crossbow (6)<br>heavy crossbow (6)<br>horseman's flail (5)<br>hotcut (5)<br>ironshod quarterstaff (2)<br>khopesh (5)<br>kriegsmesser (4)<br>kris (6)<br>latchet crossbow (6)<br>light crossbow (6)<br>longsword (6)<br>lucerne hammer (6)<br>mace (3)<br>metalworking chisel (5)<br>morningstar (5)<br>peasant flail (3)<br>pedal powered grindstone (4)<br>pike (6)<br>poleaxe (6)<br>rapier (7)<br>soaking long pole (2)<br>soaking spear shaft (2)<br>steel javelin (4)<br>steel scraper (3)<br>steel spear (3)<br>survival knife (5)<br>swage and die set (5)<br>sword cane (8)<br>urumi (6)<br>war flail (6)<br>war hammer (8)<br>xiphos (4)<br>zweihänder (7)</div></div>
+| Bladesmithing
+|-
+| The Prop Builder's Molding and Casting Handbook
+| 2-4
+| makeshift vacuum mold (3)
+| Basic Carpentry<br>Plastic Working
+|-
+| The Streetfighter's Sidekick
+| 5-6
+| bagh nakh (4)<br>battle axe (7)<br>brass knuckles (2)<br>bronze cow armor (4)<br>bronze cuirass (4)<br><div class="mw-collapsible mw-collapsed">+42 more recipes<div class="mw-collapsible-content">bronze greaves (4)<br>bronze helmet (4)<br>bronze horse armor (4)<br>bronze vambraces (4)<br>cestus (1)<br>chainmail chausses (6)<br>chainmail coif (6)<br>chainmail gloves (6)<br>chainmail link (1)<br>chainmail sheet (2)<br>chainmail skirt (6)<br>chainmail sleeves (6)<br>chainmail vest (6)<br>chainsaw (off) (5)<br>crude paper breastplate (2)<br>dive knife (6)<br>electric chainsaw (off) (5)<br>electrified foil (4)<br>electrified saber (4)<br>electrified épée (4)<br>fingerless leather gloves (2)<br>hunting knife (4)<br>ironshod quarterstaff (3)<br>mace (4)<br>National Guard bayonet (5)<br>paper ballistic plate (2)<br>paper ballistic side plate (2)<br>pocket knife (5)<br>powered quarterstaff (4)<br>punch dagger (2)<br>razorbar katar (3)<br>scrap ballistic plate (2)<br>scrap ballistic side plate (2)<br>steel ballistic plate (7)<br>steel ballistic side plate (6)<br>steel knuckles (2)<br>switchblade (5)<br>sword bayonet (5)<br>tactical tonfa (off) (5)<br>tanto (8)<br>trench knife (5)<br>war hammer (6)</div></div>
+| &mdash;
+|-
+| The Swords of the Samurai
+| 5-10
+| bokken (2)<br>butterfly sword (6)<br>cestus (7)<br>charcoal forge (5)<br>drift (5)<br><div class="mw-collapsible mw-collapsed">+22 more recipes<div class="mw-collapsible-content">electric forge (5)<br>gas forge (5)<br>hotcut (5)<br>jitte (5)<br>kanabō (2)<br>karambit (5)<br>katana (7)<br>kirpan (5)<br>kukri (8)<br>metalworking chisel (5)<br>naginata (6)<br>nodachi (7)<br>pedal powered grindstone (4)<br>razorbar katar (8)<br>sai (5)<br>soaking long pole (2)<br>soaking spear shaft (2)<br>steel scraper (3)<br>steel spear (3)<br>swage and die set (5)<br>tanto (6)<br>wakizashi (6)</div></div>
+| Bladesmithing
+|-
+| Tools of Warfare in the Arabic World
+| 5-10
+| bronze chisel (5)<br>chainmail aventail (6)<br>charcoal forge (5)<br>drift (5)<br>electric forge (5)<br><div class="mw-collapsible mw-collapsed">+11 more recipes<div class="mw-collapsible-content">gas forge (5)<br>hotcut (5)<br>kilij (7)<br>metalworking chisel (5)<br>mirror armor (4)<br>pedal powered grindstone (5)<br>scimitar (6)<br>steel scraper (3)<br>swage and die set (5)<br>talwar (6)<br>turban helmet (4)</div></div>
+| Redsmithing
+|-
+| Welding and Metallurgy
+| 4-7
+| bike rack (6)<br>compound war bow (8)<br>copper pot (4)<br>hand pump (5)<br>hard plating (5)<br><div class="mw-collapsible mw-collapsed">+15 more recipes<div class="mw-collapsible-content">makeshift arc welder (1)<br>makeshift steam engine (6)<br>makeshift welding blanket (1)<br>reinforced headlight (5)<br>reinforced security camera (5)<br>reinforced wide-angle headlight (5)<br>small welding tank (2)<br>spiked plating (3)<br>sword bayonet (7)<br>tin powder (4)<br>tinted glass lenses (5)<br>vehicle forge rig (5)<br>vehicle kiln (5)<br>welding goggles (3)<br>welding tank (2)</div></div>
+| Skilled Welding
+|-
+| WX010 Living Armor Observations
+| 1+
+| iridescent carapace plate (1)<br>iridescent carapace side plate (1)
+| &mdash;
+|}
+
+=== Handguns ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Tactical Handgun Digest
+| 0-1
+| 9x19mm 10-round clip (3)<br>bottom mount (4)<br>flintlock pistol (6)<br>iron sights (3)<br>launcher sights mount (4)<br><div class="mw-collapsible mw-collapsed">+13 more recipes<div class="mw-collapsible-content">offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>speedloader chute, 4-round breaching shotgun (4)<br>speedloader chute, 5-round hunting shotgun (4)<br>speedloader chute, 6-round combat shotgun (4)<br>speedloader chute, 8-round auto-loading shotgun (4)<br>speedloader chute, 9-round combat shotgun (4)<br>speedloader chute, Benelli Super (4)</div></div>
+| &mdash;
+|-
+| The Tao of the Handgun
+| 0-3
+| .22 FMJ, matchhead powder (2)<br>.22 FMJ, reloaded (2)<br>.22 LR FMJ, black powder (2)<br>.22 LR, black powder (2)<br>.22 LR, matchhead powder (2)<br><div class="mw-collapsible mw-collapsed">+135 more recipes<div class="mw-collapsible-content">.22 LR, reloaded (2)<br>.357 Magnum FMJ, black powder (3)<br>.357 Magnum FMJ, matchhead powder (3)<br>.357 Magnum FMJ, reloaded (3)<br>.357 Magnum JHP, black powder (3)<br>.357 Magnum JHP, matchhead powder (3)<br>.357 Magnum JHP, reloaded (3)<br>.357 SIG casing (5)<br>.357 SIG FMJ, black powder (3)<br>.357 SIG FMJ, matchhead powder (3)<br>.357 SIG FMJ, reloaded (3)<br>.357 SIG JHP, black powder (3)<br>.357 SIG JHP, matchhead powder (3)<br>.357 SIG JHP, reloaded (3)<br>.36 paper cartridge (3)<br>.38 Special +P, reloaded (1)<br>.38 Special casing (5)<br>.38 Special FMJ, black powder (2)<br>.38 Special FMJ, matchhead powder (2)<br>.38 Special FMJ, reloaded (2)<br>.38 Special JHP, black powder (1)<br>.38 Special JHP, matchhead powder (1)<br>.38 Special JHP, reloaded (1)<br>.38 Super FMJ, black powder (3)<br>.38 Super FMJ, matchhead powder (1)<br>.38 Super FMJ, reloaded (1)<br>.38 Super JHP, black powder (3)<br>.38 Super JHP, matchhead powder (3)<br>.38 Super JHP, reloaded (3)<br>.380 ACP +P, reloaded (3)<br>.380 ACP casing (5)<br>.380 ACP FMJ, black powder (2)<br>.380 ACP FMJ, matchhead powder (2)<br>.380 ACP FMJ, reloaded (2)<br>.380 ACP JHP, black powder (1)<br>.380 ACP JHP, matchhead powder (1)<br>.380 ACP JHP, reloaded (1)<br>.40 S&W casing (5)<br>.40 S&W FMJ, black powder (3)<br>.40 S&W FMJ, matchhead powder (3)<br>.40 S&W FMJ, reloaded (3)<br>.40 S&W JHP, black powder (2)<br>.40 S&W JHP, matchhead powder (2)<br>.40 S&W JHP, reloaded (2)<br>.44 Magnum FMJ, black powder (4)<br>.44 Magnum FMJ, reloaded (4)<br>.44 Magnum, black powder (4)<br>.44 Magnum, reloaded (4)<br>.44 paper cartridge (3)<br>.45 ACP +P, reloaded (4)<br>.45 ACP casing (5)<br>.45 ACP FMJ, black powder (3)<br>.45 ACP JHP, black powder (2)<br>.45 ACP JHP, matchhead powder (2)<br>.45 ACP JHP, reloaded (2)<br>.45 Colt +P FMJ, reloaded (4)<br>.45 Colt +P JHP, reloaded (4)<br>.45 Colt casing (5)<br>.45 Colt FMJ, black powder (4)<br>.45 Colt FMJ, matchhead powder (4)<br>.45 Colt JHP, black powder (4)<br>.45 Colt JHP, matchhead powder (4)<br>.45 Colt LFN, black powder (4)<br>.45 Colt LFN, matchhead powder (4)<br>.45 Colt LFN, reloaded (4)<br>.45 FMJ, matchhead powder (3)<br>.45 FMJ, reloaded (3)<br>.454 Casull, black powder (7)<br>.454 Casull, reloaded (7)<br>.460 Rowland casing (5)<br>.460 Rowland FMJ, black powder (4)<br>.460 Rowland FMJ, reloaded (4)<br>.460 Rowland, black powder (4)<br>.460 Rowland, reloaded (4)<br>.50 AE casing (5)<br>.50 AE FMJ, black powder (8)<br>.50 AE FMJ, matchhead powder (8)<br>.50 AE FMJ, reloaded (8)<br>.50 AE JHP, black powder (8)<br>.50 AE JHP, matchhead powder (8)<br>.50 AE JHP, reloaded (8)<br>.500 S&W Magnum, black powder (8)<br>.500 S&W Magnum, reloaded (8)<br>10mm Auto +P, reloaded (3)<br>10mm Auto FMJ, black powder (3)<br>10mm Auto FMJ, matchhead powder (3)<br>10mm Auto FMJ, reloaded (3)<br>10mm Auto JHP, black powder (3)<br>10mm Auto JHP, matchhead powder (3)<br>10mm Auto JHP, reloaded (3)<br>5.7x28mm, black powder (2)<br>7.62x25mm FMJ, black powder (3)<br>7.62x25mm FMJ, matchhead powder (3)<br>7.62x25mm FMJ, reloaded (3)<br>9x18mm +P+, reloaded (4)<br>9x18mm FMJ, black powder (4)<br>9x18mm FMJ, matchhead powder (4)<br>9x18mm FMJ, reloaded (4)<br>9x18mm, black powder (2)<br>9x18mm, matchhead powder (2)<br>9x18mm, reloaded (2)<br>9x19mm +P+, reloaded (4)<br>9x19mm +P, reloaded (3)<br>9x19mm FMJ, black powder (2)<br>9x19mm FMJ, matchhead powder (2)<br>9x19mm FMJ, reloaded (2)<br>9x19mm JHP, black powder (1)<br>9x19mm JHP, matchhead powder (1)<br>9x19mm JHP, reloaded (1)<br>bottom mount (4)<br>compensator (4)<br>ergonomic grip (4)<br>flintlock pistol (5)<br>forward grip (3)<br>Glock auto sear plate (5)<br>hand press (3)<br>handmade revolver (3)<br>homemade pistol (5)<br>iron sights (3)<br>large pistol primer (3)<br>launcher sights mount (4)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>pistol stock (3)<br>pistol stock (4)<br>pistol suppressor (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>revolving shotgun (2)<br>side mount (4)<br>sights mount (4)<br>small pistol primer (3)<br>telescopic pistol sight (2)<br>wood forward grip (3)</div></div>
+| &mdash;
+|}
+
+=== Launchers ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| High Explosives Quarterly
+| 0-1
+| 40mm pipe launcher (4)
+| &mdash;
+|-
+| Jane's Mortars and Rocket Launchers
+| 0-3
+| 40mm pipe launcher (3)<br>adjustable stock (4)<br>barrel bomb (7)<br>bipod (3)<br>flamethrower fuel (2)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">forward grip (4)<br>HE barrel bomb (7)<br>HE keg bomb (7)<br>HE pipe bomb (4)<br>homemade demolition charge (4)<br>improvised bomb (4)<br>improvised HE bomb (4)<br>improvised HE grenade (4)<br>keg bomb (7)<br>recoil stock (4)<br>small improvised HE grenade (4)<br>wood forward grip (4)</div></div>
+| &mdash;
+|}
+
+=== Marksmanship ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Ballistics: Theory, Design, and Application
+| 0-2
+| &mdash;
+| Principles of Gunsmithing
+|-
+| Guns n Ammo
+| 0-1
+| bottom mount (4)<br>iron sights (3)<br>launcher sights mount (4)<br>offset iron sights (4)<br>pistol sights mount (4)<br><div class="mw-collapsible mw-collapsed">+10 more recipes<div class="mw-collapsible-content">replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>speedloader chute, 4-round breaching shotgun (4)<br>speedloader chute, 5-round hunting shotgun (4)<br>speedloader chute, 6-round combat shotgun (4)<br>speedloader chute, 8-round auto-loading shotgun (4)<br>speedloader chute, 9-round combat shotgun (4)<br>speedloader chute, Benelli Super (4)</div></div>
+| &mdash;
+|-
+| Pocket Guide to Firearm Safety
+| 0-2
+| mixed smokeless gunpowder (3)
+| &mdash;
+|-
+| The Gun Owner's Handbook
+| 0-3
+| bottom mount (4)<br>bow scope (3)<br>flashlight pouch (1)<br>gadget pouch (1)<br>gas mask pouch (2)<br><div class="mw-collapsible mw-collapsed">+17 more recipes<div class="mw-collapsible-content">H2O pouch (2)<br>iron sights (3)<br>launcher sights mount (4)<br>mixed smokeless gunpowder (2)<br>offset iron sights (4)<br>pistol sights mount (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>single pin bow sight (3)<br>tactical grenade pouch (1)<br>tactical holster (1)<br>tactical radio pouch (1)<br>tactical shotshell pouch (1)<br>tactical tool pouch (1)<br>triple stacker ammo pouch (2)</div></div>
+| &mdash;
+|}
+
+=== Mechanics ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| army improvised field repairs manual
+| 0-1
+| makeshift air filter (2)<br>makeshift automotive filter (2)<br>makeshift drive belt (1)
+| &mdash;
+|-
+| Hot Rod Chassis & Suspension Handbook
+| 7-8
+| &mdash;
+| &mdash;
+|-
+| Internal Combustion Fundamentals
+| 4-8
+| &mdash;
+| &mdash;
+|-
+| lab journal-Curie
+| 6-10
+| &mdash;
+| &mdash;
+|-
+| makerspace kit instructions
+| 0-0
+| &mdash;
+| &mdash;
+|-
+| Mechanical Mastery
+| 3-6
+| adjustable stock (3)<br>block and tackle (3)<br>chainsaw (off) (4)<br>compensator (3)<br>compound war bow (8)<br><div class="mw-collapsible mw-collapsed">+29 more recipes<div class="mw-collapsible-content">condensor coil (5)<br>drive by wire controls (8)<br>electric chainsaw (off) (4)<br>ergonomic grip (3)<br>evaporator coil (5)<br>folding table (3)<br>makeshift arc welder (2)<br>metal butchering rack (3)<br>metal smoking rack (3)<br>minifreezer (5)<br>pipe cleaner (0)<br>plow (4)<br>portable dishwasher (5)<br>reaper (4)<br>recharging station (7)<br>reinforced headlight (3)<br>reinforced security camera (3)<br>reinforced wide-angle headlight (3)<br>seed drill (4)<br>spiked plating (4)<br>steel boom (5)<br>telescopic cantilever (2)<br>vehicle controls (3)<br>vehicle cooler (5)<br>vehicle forge rig (6)<br>vehicle kiln (6)<br>vehicle scoop (4)<br>washing machine (5)<br>wooden block and tackle (1)</div></div>
+| &mdash;
+|-
+| Pneumatic Pnowledge
+| 4-8
+| novelty pneumatic launcher (5)
+| Pneumatics
+|-
+| Popular Mechanics
+| 0-1
+| hand-crank charger (3)<br>pipe cleaner (0)
+| &mdash;
+|-
+| robotics kit instructions
+| 0-0
+| &mdash;
+| &mdash;
+|-
+| standpipe maintenance log
+| 1+
+| pipe cleaner (0)
+| &mdash;
+|-
+| Stirling engine kit instructions
+| 0-0
+| &mdash;
+| &mdash;
+|-
+| Under the Hood
+| 0-3
+| bear trap (2)<br>bicycle alternator (2)<br>bolt cutters (4)<br>car battery (3)<br>hacksaw (3)<br><div class="mw-collapsible mw-collapsed">+19 more recipes<div class="mw-collapsible-content">hand pump (4)<br>large storage battery (3)<br>makeshift arc welder (3)<br>makeshift jack (1)<br>makeshift vacuum mold (5)<br>medium storage battery (3)<br>minifreezer (5)<br>motorbike alternator (2)<br>motorbike battery (3)<br>nut and bolt (3)<br>pedal powered grindstone (3)<br>scissor jack (2)<br>small electric motor (2)<br>telescopic cantilever (2)<br>thread cutting set (3)<br>tiny electric motor (2)<br>vehicle controls (3)<br>vehicle cooler (5)<br>very large storage battery (3)</div></div>
+| &mdash;
+|}
+
+=== Medicine ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| First Aid Kit Instruction Booklet
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| First Responder Handbook
+| 3-6
+| anesthetic (6)<br>Dakin's solution (2)<br>hemostatic powder (3)<br>rehydration drink (1)<br>saline solution (2)
+| &mdash;
+|-
+| Guide to Advanced Emergency Care
+| 5-8
+| bismuth subsalicylate (6)<br>cattail jelly (1)<br>Dakin's solution (2)<br>filter mask (3)<br>gas mask (3)<br><div class="mw-collapsible mw-collapsed">+7 more recipes<div class="mw-collapsible-content">hemostatic powder (4)<br>rebreather oxygen regenerator cartridge (3)<br>rebreather oxygen regenerator filler (3)<br>rebreather scrubber cartridge, air tank (3)<br>rebreather scrubber cartridge, oxygen tank (3)<br>rebreather scrubbing filler (3)<br>saline solution (3)</div></div>
+| Field Medic
+|-
+| Paramedics
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| Physicians' Desk Reference
+| 0+
+| &mdash;
+| &mdash;
+|-
+| Pocket Guide to First Aid
+| 0-2
+| makeshift stethoscope (1)<br>saline solution (2)
+| &mdash;
+|-
+| Textbook of Advanced Toxicology
+| 5-6
+| anesthetic (6)<br>concentrated paralytic (5)<br>concentrated venom (5)<br>epinephrine autoinjector (7)
+| &mdash;
+|-
+| The Big Book of First Aid
+| 0-3
+| makeshift stethoscope (1)<br>rehydration drink (1)<br>saline solution (2)
+| &mdash;
+|}
+
+=== Melee ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Close Quarter Fighting Manual
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| CQB Monthly
+| 0-1
+| &mdash;
+| &mdash;
+|}
+
+=== Rifles ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| FM 23-16 Army marksmanship manual
+| 0-3
+| .270 Winchester casing (5)<br>.300BLK casing (5)<br>adjustable stock (4)<br>bipod (3)<br>bottom mount (4)<br><div class="mw-collapsible mw-collapsed">+27 more recipes<div class="mw-collapsible-content">compensator (4)<br>drop-in auto sear (5)<br>ergonomic grip (4)<br>flintlock carbine (5)<br>flintlock musket (5)<br>flintlock rifle (5)<br>folding stock (4)<br>forward grip (4)<br>hand press (2)<br>handmade double-barrel flintlock (2)<br>handmade double-barrel flintlock (3)<br>iron sights (3)<br>launcher sights mount (4)<br>lightning link (6)<br>M240 select fire trigger (6)<br>M249 select fire trigger (6)<br>muzzle brake (5)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>recoil stock (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>telescopic sight (2)<br>wood forward grip (4)</div></div>
+| &mdash;
+|-
+| Modern Rifleman
+| 0-1
+| .223 Remington, black powder (2)<br>.223 Remington, reloaded (2)<br>.270 Winchester FMJ, black powder (3)<br>.270 Winchester FMJ, reloaded (3)<br>.270 Winchester JSP, black powder (3)<br><div class="mw-collapsible mw-collapsed">+82 more recipes<div class="mw-collapsible-content">.270 Winchester JSP, reloaded (3)<br>.30 Carbine JSP, black powder (4)<br>.30 Carbine JSP, matchhead powder (4)<br>.30 Carbine JSP, reloaded (4)<br>.30 Carbine, black powder (4)<br>.30 Carbine, matchhead powder (4)<br>.30 Carbine, reloaded (4)<br>.30-06 5-round clip (3)<br>.30-06 FMJ, black powder (4)<br>.30-06 FMJ, reloaded (4)<br>.30-06 JSP, black powder (4)<br>.30-06 JSP, reloaded (4)<br>.30-06 M2 AP, black powder (4)<br>.30-06 M2 AP, reloaded (4)<br>.300 AAC Blackout subsonic, black powder (4)<br>.300 AAC Blackout subsonic, reloaded (4)<br>.300 AAC Blackout, black powder (4)<br>.300 AAC Blackout, reloaded (4)<br>.300 Winchester Magnum, black powder (5)<br>.300 Winchester Magnum, reloaded (5)<br>.308 Winchester, black powder (4)<br>.308 Winchester, reloaded (4)<br>.45-70 +P penetrator, reloaded (4)<br>.45-70 LFN, black powder (4)<br>.45-70 LFN, reloaded (4)<br>.45-70 SP, reloaded (4)<br>.450 Bushmaster FTX, black powder (4)<br>.450 Bushmaster FTX, reloaded (4)<br>.450 Bushmaster Xtreme Hunter, black powder (4)<br>.450 Xtreme Hunter, reloaded (4)<br>.50 Beowulf XTP, black powder (4)<br>.50 Beowulf XTP, reloaded (4)<br>.50 Beowulf Xtreme Penetrator, black powder (4)<br>.50 Beowulf Xtreme Penetrator, reloaded (4)<br>4.6x30mm, black powder (4)<br>4.6x30mm, reloaded (4)<br>5.45x39mm AP, black powder (3)<br>5.45x39mm AP, reloaded (3)<br>5.45x39mm, black powder (3)<br>5.45x39mm, reloaded (3)<br>5.56 NATO, black powder (4)<br>5.56 NATO, reloaded (4)<br>5.7x28mm, reloaded (4)<br>7.62x39mm 10-round clip (3)<br>7.62x39mm FMJ, black powder (3)<br>7.62x39mm FMJ, reloaded (3)<br>7.62x39mm JHP, black powder (3)<br>7.62x39mm JHP, reloaded (3)<br>7.62x51mm, black powder (4)<br>7.62x51mm, reloaded (4)<br>7.62x54mmR 5-round clip (3)<br>7.62x54mmR, black powder (4)<br>7.62x54mmR, reloaded (4)<br>bottom mount (4)<br>flintlock carbine (6)<br>flintlock musket (6)<br>flintlock rifle (6)<br>handmade double-barrel flintlock (3)<br>handmade double-barrel flintlock (4)<br>iron sights (3)<br>large rifle primer (3)<br>launcher sights mount (4)<br>M1 Garand 8-round clip (3)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>retooled STANAG 20-round magazine (2)<br>retooled STANAG 20-round magazine with ranger plate (2)<br>retooled STANAG 30-round magazine (2)<br>retooled STANAG 30-round magazine with ranger plate (2)<br>side mount (4)<br>sights mount (4)<br>small game rifle 19-round tube loader (3)<br>small rifle primer (3)<br>speedloader chute, 4-round breaching shotgun (4)<br>speedloader chute, 5-round hunting shotgun (4)<br>speedloader chute, 6-round combat shotgun (4)<br>speedloader chute, 8-round auto-loading shotgun (4)<br>speedloader chute, 9-round combat shotgun (4)<br>speedloader chute, Benelli Super (4)</div></div>
+| &mdash;
+|-
+| retool instructions
+| 0-1
+| &mdash;
+| &mdash;
+|}
+
+=== Science ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Advanced Physical Chemistry
+| 5-7
+| acetic acid (2)<br>acetic acid (6)<br>acetic anhydride (5)<br>acetone (4)<br>acid soaked hide (3)<br><div class="mw-collapsible mw-collapsed">+71 more recipes<div class="mw-collapsible-content">antifungal drug (4)<br>aspirin (2)<br>baking soda (5)<br>basic chemistry set (1)<br>caffeine pill (7)<br>calcium carbonate (1)<br>calcium carbonate (4)<br>calcium chloride (4)<br>chemistry set (1)<br>chloroform (4)<br>citric acid (4)<br>crack (4)<br>diazepam (7)<br>disposable watch battery (4)<br>duct tape (3)<br>dynamite (3)<br>ether (7)<br>ferric chloride (4)<br>filter mask (4)<br>formaldehyde (5)<br>formic acid (2)<br>formic acid (6)<br>fungicide (2)<br>gas mask (4)<br>hard plating (6)<br>heat pack (3)<br>hemostatic powder (4)<br>heroin (7)<br>hydrochloric acid (2)<br>hydrochloric acid (4)<br>hydrochloric acid (6)<br>insecticide (4)<br>iodine crystals (3)<br>ketene lamp (5)<br>lead azide (7)<br>liquid fertilizer (2)<br>lye (3)<br>lye (4)<br>makeshift ammonia machine pipework (7)<br>makeshift ammonia machine reactor (7)<br>makeshift nitrogen generator (5)<br>makeshift water electrolyzer (5)<br>mercury fulminate (7)<br>nitric acid (5)<br>opium tar (2)<br>oxidizer powder (4)<br>oxycodone (6)<br>potassium (4)<br>potassium hydroxide (5)<br>potassium iodide tablet (4)<br>Prussian blue tablet (5)<br>quicklime (3)<br>rebreather mask (4)<br>rebreather oxygen regenerator filler (4)<br>rebreather scrubbing filler (4)<br>red phosphorous (3)<br>rubber cement (3)<br>saline solution (4)<br>smoke bomb (3)<br>sodium (4)<br>sodium carbonate (4)<br>sodium carbonate (5)<br>sprayable fungicide (4)<br>sprayable insecticide (4)<br>sprayable toxic gas (3)<br>sugar (6)<br>sugar (7)<br>sulfuric acid (2)<br>toluene (4)<br>water purification tablet (5)<br>white phosphorous (3)</div></div>
+| Principles of Chemistry
+|-
+| Art and Science of Chemical Warfare
+| 4-6
+| acetylene (4)<br>calcium carbide (4)<br>filter mask (3)<br>flamethrower fuel (2)<br>gas mask (3)<br><div class="mw-collapsible mw-collapsed">+21 more recipes<div class="mw-collapsible-content">gelled gasoline (2)<br>heavy survivor mask (9)<br>improvised fungicide grenade (3)<br>improvised gas grenade (3)<br>improvised insecticide grenade (3)<br>napalm (8)<br>oxyacetylene (4)<br>rebreather oxygen regenerator cartridge (4)<br>rebreather oxygen regenerator filler (4)<br>rebreather scrubber cartridge, air tank (4)<br>rebreather scrubber cartridge, oxygen tank (4)<br>rebreather scrubbing filler (4)<br>red phosphorous (2)<br>smoke bomb (2)<br>sprayable fungicide (4)<br>sprayable insecticide (4)<br>sprayable toxic gas (3)<br>survivor firemask (9)<br>survivor half mask (9)<br>survivor mask (9)<br>white phosphorous (2)</div></div>
+| &mdash;
+|-
+| Best Practices for Compound Delivery
+| 6-8
+| aranean infusion (6)<br>avian infusion (6)<br>batrachian infusion (6)<br>beast infusion (6)<br>bovoid infusion (6)<br><div class="mw-collapsible mw-collapsed">+21 more recipes<div class="mw-collapsible-content">canine infusion (6)<br>cephalopod infusion (6)<br>chiropteran infusion (6)<br>crustacean infusion (8)<br>feline infusion (6)<br>gastropod infusion (6)<br>insect infusion (6)<br>lagomorph infusion (6)<br>medical infusion (7)<br>medical sample (4)<br>murine infusion (6)<br>mutagen (5)<br>mutagenic infusion (6)<br>piscine infusion (6)<br>plant infusion (6)<br>purifier infusion (7)<br>rattine infusion (6)<br>reptilian infusion (6)<br>slime infusion (6)<br>troglobite infusion (6)<br>ursine infusion (6)</div></div>
+| &mdash;
+|-
+| Biodiesel: Renewable Fuel Resource
+| 3-6
+| biodiesel (5)
+| &mdash;
+|-
+| Catalytic Cracking at Home for Solarpunks
+| 5-7
+| kerosene (5)
+| &mdash;
+|-
+| chemical reference-CLASSIFIED
+| 6-7
+| acetic acid (1)<br>acetic acid (5)<br>acetic anhydride (5)<br>acetone (4)<br>ANFO (5)<br><div class="mw-collapsible mw-collapsed">+59 more recipes<div class="mw-collapsible-content">antifungal drug (4)<br>APEX (8)<br>aspirin (2)<br>baking soda (5)<br>black gunpowder (4)<br>caffeine pill (7)<br>calcium carbonate (4)<br>calcium chloride (4)<br>chloroform (4)<br>citric acid (4)<br>crack (4)<br>crystal meth (6)<br>diazepam (6)<br>epinephrine autoinjector (8)<br>flashbang (5)<br>formic acid (1)<br>formic acid (5)<br>fungicide (2)<br>heroin (6)<br>hexamine (5)<br>HMTD (8)<br>hydrochloric acid (1)<br>hydrochloric acid (3)<br>hydrochloric acid (5)<br>hydrogen peroxide (3)<br>hydrogen peroxide (concentrated) (4)<br>improvised rocket fuel (4)<br>insecticide (4)<br>iodine crystals (3)<br>ketene lamp (5)<br>lead azide (7)<br>liquid fertilizer (3)<br>lye (3)<br>makeshift ammonia machine pipework (7)<br>makeshift ammonia machine reactor (7)<br>makeshift nitrogen generator (5)<br>makeshift water electrolyzer (5)<br>medical sample (4)<br>mercury fulminate (7)<br>mutagen (5)<br>mutagenic infusion (7)<br>napalm (6)<br>oxidizer powder (4)<br>oxycodone (5)<br>potassium iodide tablet (4)<br>Prussian blue tablet (5)<br>purifier (5)<br>purifier infusion (7)<br>RDX (8)<br>rocket candy (3)<br>saltpeter (4)<br>sodium carbonate (4)<br>sodium carbonate (5)<br>sprayable fungicide (4)<br>sprayable insecticide (4)<br>sprayable toxic gas (3)<br>sugar (6)<br>sulfuric acid (1)<br>water purification tablet (4)</div></div>
+| &mdash;
+|-
+| Chemistry for Kids: Awesome Science Experiments that Really Work
+| 0-3
+| aspirin (2)<br>calcium carbonate (1)<br>smoke bomb (2)
+| Principles of Chemistry
+|-
+| chemistry textbook
+| 3-6
+| acetic acid (2)<br>acetic acid (6)<br>acetic anhydride (6)<br>acetone (5)<br>acetylene (4)<br><div class="mw-collapsible mw-collapsed">+82 more recipes<div class="mw-collapsible-content">acid soaked hide (3)<br>ANFO (7)<br>antifungal drug (5)<br>aspirin (2)<br>baking soda (6)<br>basic chemistry set (1)<br>black gunpowder (5)<br>calcium carbide (4)<br>calcium carbonate (1)<br>calcium carbonate (3)<br>calcium chloride (5)<br>chemistry set (1)<br>chloroform (5)<br>citric acid (5)<br>copper pot (4)<br>crack (4)<br>denatured alcohol<br>diazepam (7)<br>duct tape (3)<br>dynamite (3)<br>epinephrine autoinjector (8)<br>ethanol<br>ether (4)<br>filter mask (4)<br>food dehydrator (5)<br>formaldehyde (5)<br>formic acid (2)<br>formic acid (6)<br>fungicide (2)<br>gas mask (4)<br>heat pack (3)<br>heroin (7)<br>hydrochloric acid (2)<br>hydrochloric acid (3)<br>hydrochloric acid (4)<br>hydrochloric acid (6)<br>hydrogen peroxide (3)<br>hydrogen peroxide (concentrated) (4)<br>improvised rocket fuel (5)<br>incendiary (4)<br>insecticide (4)<br>iodine crystals (3)<br>ketene lamp (6)<br>liquid fertilizer (2)<br>lye (3)<br>nitric acid (5)<br>opium tar (2)<br>oxidizer powder (4)<br>oxyacetylene (4)<br>oxycodone (6)<br>potassium (4)<br>potassium hydroxide (4)<br>potassium iodide tablet (4)<br>Prussian blue tablet (6)<br>quicklime (3)<br>rebreather mask (4)<br>rebreather oxygen regenerator filler (4)<br>rebreather scrubbing filler (4)<br>red phosphorous (3)<br>rocket candy (5)<br>rubber cement (3)<br>saline solution (5)<br>salt (4)<br>saltpeter (4)<br>smoke bomb (3)<br>sodium (4)<br>sodium carbonate (5)<br>sodium carbonate (6)<br>sprayable fungicide (4)<br>sprayable insecticide (4)<br>sprayable toxic gas (4)<br>still (4)<br>sugar (6)<br>sugar (8)<br>sulfuric acid (2)<br>tanning fur pelt (4)<br>tanning leather hide (4)<br>tin powder (4)<br>vegetable aspic (3)<br>water purification tablet (5)<br>white phosphorous (3)<br>willowbark tea (4)</div></div>
+| &mdash;
+|-
+| lab journal-Dionne
+| 6-7
+| avian infusion (6)<br>avian mutagen (6)<br>batrachian infusion (6)<br>batrachian mutagen (6)<br>beast infusion (6)<br><div class="mw-collapsible mw-collapsed">+21 more recipes<div class="mw-collapsible-content">beast mutagen (5)<br>beast sample (5)<br>bovoid infusion (6)<br>bovoid mutagen (6)<br>canine infusion (6)<br>canine mutagen (6)<br>chimera sample (5)<br>feline infusion (6)<br>feline mutagen (6)<br>lagomorph infusion (6)<br>lagomorph mutagen (6)<br>murine infusion (6)<br>murine mutagen (6)<br>mutagen (6)<br>piscine infusion (6)<br>piscine mutagen (6)<br>reptilian infusion (6)<br>reptilian mutagen (6)<br>theropod sample (8)<br>ursine infusion (6)<br>ursine mutagen (6)</div></div>
+| &mdash;
+|-
+| lab journal-Smythe
+| 6-7
+| cephalopod infusion (6)<br>cephalopod mutagen (6)<br>chiropteran infusion (6)<br>chiropteran mutagen (6)<br>crustacean infusion (8)<br><div class="mw-collapsible mw-collapsed">+11 more recipes<div class="mw-collapsible-content">crustacean mutagen (8)<br>gastropod infusion (6)<br>gastropod mutagen (6)<br>mutagen (6)<br>plant infusion (6)<br>plant mutagen (6)<br>rattine infusion (6)<br>rattine mutagen (6)<br>slime infusion (6)<br>slime mutagen (6)<br>slime sample (6)</div></div>
+| &mdash;
+|-
+| lab journal-x-&#124;xp
+| 6-7
+| aranean infusion (6)<br>aranean mutagen (6)<br>insect infusion (6)<br>insect mutagen (6)<br>mutagen (5)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">purifier (6)<br>slime infusion (6)<br>slime mutagen (6)<br>slime sample (6)<br>troglobite infusion (6)<br>troglobite mutagen (6)</div></div>
+| &mdash;
+|-
+| PE023 "Medical": Application and Findings
+| 6-7
+| medical infusion (7)<br>medical mutagen (7)
+| &mdash;
+|-
+| PE050 "Alpha": Preliminary Report
+| 6-7
+| alpha infusion (7)<br>alpha mutagen (7)
+| &mdash;
+|-
+| PE065 "Chimera": Best Practices
+| 6-7
+| chimera infusion (6)<br>chimera mutagen (7)
+| &mdash;
+|-
+| PE070 "Theropod": Proposal
+| 8+
+| theropod infusion (7)<br>theropod mutagen (7)
+| &mdash;
+|-
+| standpipe maintenance log
+| 7+
+| sylvan infusion (8)<br>sylvan mutagen (8)<br>sylvan sample (6)
+| &mdash;
+|-
+| The Essential Oil Enthusiasts Handbook
+| 4-6
+| cannabis distillate (4)<br>cannabis shatter (4)<br>cannabis wax (4)<br>large closed loop extractor (5)<br>makeshift essential oil extractor (3)<br>plastic gasket set (2)<br>recovery pump (3)<br>small closed loop extractor (5)
+| &mdash;
+|-
+| The Modern Tanner
+| 3-4
+| tanning fur pelt (4)<br>tanning leather hide (4)
+| Principles of Leatherworking
+|}
+
+=== Shotguns ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Shotguns: The Art and Science
+| 0-3
+| .410 000 shot, black powder (2)<br>.410 000 shot, reloaded (2)<br>.410 birdshot, black powder (2)<br>.410 birdshot, reloaded (2)<br>.410 slug, black powder (2)<br><div class="mw-collapsible mw-collapsed">+66 more recipes<div class="mw-collapsible-content">.410 slug, reloaded (2)<br>.62 paper cartridge (3)<br>00 shot, black powder (2)<br>00 shot, reloaded (2)<br>12 gauge pistol (2)<br>12-gauge gatling gun (2)<br>40x46mm M118 buckshot, black powder (3)<br>40x46mm M118 buckshot, reloaded (3)<br>40x46mm M118 flechette, black powder (3)<br>40x46mm M118 flechette, reloaded (3)<br>40x46mm M118 slug, black powder (3)<br>40x46mm M118 slug, reloaded (3)<br>40x46mm M199 buckshot, black powder (3)<br>40x46mm M199 buckshot, reloaded (3)<br>40x46mm M199 flechette, black powder (3)<br>40x46mm M199 flechette, reloaded (3)<br>40x46mm M199 slug, black powder (3)<br>40x46mm M199 slug, reloaded (3)<br>40x53mm buckshot, black powder (3)<br>40x53mm buckshot, reloaded (3)<br>40x53mm flechette, black powder (3)<br>40x53mm flechette, reloaded (3)<br>40x53mm slug, black powder (3)<br>40x53mm slug, reloaded (3)<br>adjustable stock (4)<br>birdshot paper cartridge (3)<br>birdshot, black powder (1)<br>birdshot, reloaded (1)<br>blunderbuss flechettes (2)<br>blunderbuss scrap shot (2)<br>blunderbuss shot (2)<br>blunderbuss slug (2)<br>bottom mount (4)<br>buckshot paper cartridge (3)<br>choke (4)<br>compensator (4)<br>double slam-fire pipe shotgun (1)<br>dragon's breath shell, black powder (3)<br>dragon's breath shell, reloaded (3)<br>ergonomic grip (4)<br>flechette shell, black powder (4)<br>flechette shell, reloaded (4)<br>folding stock (4)<br>forward grip (4)<br>hand press (2)<br>iron sights (3)<br>launcher sights mount (4)<br>muzzle brake (5)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>pyrotechnic paper cartridge (3)<br>recoil stock (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>revolving shotgun (2)<br>shotgun primer (3)<br>shotgun slug, black powder (3)<br>shotgun slug, reloaded (3)<br>side mount (4)<br>sights mount (4)<br>signal flare (2)<br>slam-fire pipe shotgun (1)<br>underslung shotgun (4)<br>wax slug (3)<br>wood forward grip (4)</div></div>
+| &mdash;
+|-
+| Trap and Field
+| 0-1
+| bottom mount (4)<br>iron sights (3)<br>launcher sights mount (4)<br>offset iron sights (4)<br>pipe cleaner (0)<br><div class="mw-collapsible mw-collapsed">+12 more recipes<div class="mw-collapsible-content">pistol sights mount (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>speedloader chute, 4-round breaching shotgun (4)<br>speedloader chute, 5-round hunting shotgun (4)<br>speedloader chute, 6-round combat shotgun (4)<br>speedloader chute, 8-round auto-loading shotgun (4)<br>speedloader chute, 9-round combat shotgun (4)<br>speedloader chute, Benelli Super (4)<br>underslung shotgun (5)</div></div>
+| &mdash;
+|}
+
+=== Socializing ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Advanced Economics
+| 3-6
+| &mdash;
+| &mdash;
+|-
+| Car Buyer's Guide
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| Dungeon Master's Guide
+| 0-5
+| &mdash;
+| &mdash;
+|-
+| How to Succeed in Business
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| Nail Your Law Firm Interview
+| 3-4
+| &mdash;
+| &mdash;
+|-
+| Principles of Effective Communication
+| 3-6
+| &mdash;
+| &mdash;
+|-
+| Self-Esteem for Dummies
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| US Weekly
+| 0-1
+| &mdash;
+| &mdash;
+|}
+
+=== Stabbing Weapons ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Duelist's Annual
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| FM 23-25 Army bayonet manual
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| Spetsnaz Knife Techniques
+| 1-4
+| dive knife (5)<br>hunting knife (3)<br>kukri (9)<br>National Guard bayonet (4)<br>pocket knife (3)<br>punch dagger (3)<br>switchblade (5)<br>tanto (7)<br>trench knife (4)
+| &mdash;
+|}
+
+=== Submachine Guns ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Submachine Gun Enthusiast
+| 0-1
+| bottom mount (4)<br>iron sights (3)<br>launcher sights mount (4)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)
+| &mdash;
+|-
+| The Submachine Gun Handbook
+| 0-3
+| .38 Super FMJ, matchhead powder (1)<br>.380 ACP +P, reloaded (3)<br>.380 ACP FMJ, black powder (2)<br>.380 ACP FMJ, matchhead powder (2)<br>.380 ACP FMJ, reloaded (2)<br><div class="mw-collapsible mw-collapsed">+39 more recipes<div class="mw-collapsible-content">.380 ACP JHP, black powder (1)<br>.380 ACP JHP, matchhead powder (1)<br>.380 ACP JHP, reloaded (1)<br>.45 ACP +P, reloaded (4)<br>.45 ACP FMJ, black powder (3)<br>.45 ACP JHP, black powder (2)<br>.45 ACP JHP, matchhead powder (2)<br>.45 ACP JHP, reloaded (2)<br>.45 FMJ, matchhead powder (3)<br>.45 FMJ, reloaded (3)<br>5.7x28mm, black powder (2)<br>9x19mm +P+, reloaded (4)<br>9x19mm +P, reloaded (3)<br>9x19mm FMJ, black powder (2)<br>9x19mm FMJ, matchhead powder (2)<br>9x19mm FMJ, reloaded (2)<br>9x19mm JHP, black powder (1)<br>9x19mm JHP, matchhead powder (1)<br>9x19mm JHP, reloaded (1)<br>adjustable stock (4)<br>bottom mount (4)<br>compensator (4)<br>ergonomic grip (4)<br>folding stock (4)<br>forward grip (4)<br>hand press (2)<br>iron sights (3)<br>launcher sights mount (4)<br>offset iron sights (4)<br>pipe cleaner (0)<br>pistol sights mount (4)<br>pistol suppressor (4)<br>recoil stock (4)<br>replaceable furniture kit (4)<br>replaceable stock kit (4)<br>side mount (4)<br>sights mount (4)<br>TEC-9 full auto sear (5)<br>wood forward grip (4)</div></div>
+| &mdash;
+|}
+
+=== Tailoring ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Beauty Magazine
+| 0-1
+| straw fedora (1)<br>sundress (1)<br>turtleneck (1)<br>turtleneck shirt (1)
+| &mdash;
+|-
+| Boston AnimeCon magazine
+| 0-1
+| costume dress (2)<br>faux fur cat ears (3)<br>faux fur cat tail (3)<br>faux fur kitty collar (3)<br>French maid hat (1)<br><div class="mw-collapsible mw-collapsed">+10 more recipes<div class="mw-collapsible-content">fur bikini top (1)<br>fur kitty collar (3)<br>fuzzy cat ears (3)<br>fuzzy cat tail (3)<br>leather bikini top (1)<br>leather cat ears (3)<br>leather cat tail (3)<br>leather collar (3)<br>skimpy costume dress (3)<br>zentai (1)</div></div>
+| Plastic Working<br>Principles of Leatherworking<br>Stretch Fabric
+|-
+| clothing designer's portfolio
+| 5-8
+| boiled leather cow barding with caparison (5)<br>boiled leather horse barding with caparison (5)<br>breeches (2)<br>chitin cow armor (5)<br>chitin dog mesh harness (5)<br><div class="mw-collapsible mw-collapsed">+42 more recipes<div class="mw-collapsible-content">chitin horse armor (5)<br>denim skirt (2)<br>diving boots (4)<br>diving gloves (4)<br>diving socks (4)<br>entry suit (8)<br>faux fur coat (3)<br>faux fur longcoat (3)<br>faux fur pants (3)<br>faux fur vest (3)<br>flame-resistant cowl (5)<br>flame-resistant gloves (5)<br>flame-resistant socks (5)<br>flame-resistant suit (7)<br>fur vest (3)<br>hard arm guards (3)<br>horse tack (4)<br>iron cow armor (5)<br>iron horse armor (5)<br>jeans (5)<br>jumpsuit (4)<br>Kevlar sheet (5)<br>leather longcoat (4)<br>leather skirt (2)<br>long-sleeved jumpsuit (4)<br>neoprene arm sleeves (3)<br>skirt (5)<br>sleeveless faux fur longcoat (3)<br>sleeveless leather longcoat (4)<br>spring suit (3)<br>thermal electric balaclava (4)<br>thermal electric gloves (4)<br>thermal electric socks (4)<br>thermal electric suit (4)<br>western boots (5)<br>wetsuit (4)<br>wetsuit hood (4)<br>work coveralls (4)<br>XL sleeveless faux fur longcoat (3)<br>XL sleeveless leather longcoat (4)<br>XS sleeveless faux fur longcoat (3)<br>XS sleeveless leather longcoat (4)</div></div>
+| &mdash;
+|-
+| Dieselpunk Designs
+| 2-5
+| tire armor jacket (2)<br>tire bracers (2)<br>tire cuirass (2)<br>tire greaves (2)<br>tire tasset (2)<br>XL tire bracers (2)
+| Garment Closures<br>Principles of Leatherworking
+|-
+| Friendly, Humane Fashion
+| 2-5
+| faux fur boots (1)<br>faux fur coat (2)<br>faux fur gloves (1)<br>faux fur hat (1)<br>faux fur longcoat (2)<br><div class="mw-collapsible mw-collapsed">+6 more recipes<div class="mw-collapsible-content">faux fur pants (2)<br>faux fur vest (2)<br>fur vest (2)<br>sleeveless faux fur longcoat (2)<br>XL sleeveless faux fur longcoat (2)<br>XS sleeveless faux fur longcoat (2)</div></div>
+| Furriery
+|-
+| Sew Awesome Monthly
+| 0-1
+| bikini bottoms (1)<br>bikini top (1)<br>boy shorts (1)<br>briefs (1)<br>compression shorts (2)<br><div class="mw-collapsible mw-collapsed">+11 more recipes<div class="mw-collapsible-content">glove liners (0)<br>leather gloves (0)<br>leggings (2)<br>long underwear bottom (1)<br>panties (1)<br>straw fedora (1)<br>sundress (1)<br>turtleneck (1)<br>turtleneck shirt (1)<br>union suit (0)<br>work gloves (3)</div></div>
+| Garment Closures<br>Skilled Knitting
+|-
+| Sew What? Clothing!
+| 0-3
+| bikini bottoms (1)<br>bikini top (1)<br>boy shorts (1)<br>briefs (1)<br>buckskin shirt (3)<br><div class="mw-collapsible mw-collapsed">+48 more recipes<div class="mw-collapsible-content">buckskin vest (3)<br>cargo pants (2)<br>cargo shorts (1)<br>compression shorts (2)<br>curved needle (3)<br>denim skirt (2)<br>diving boots (5)<br>diving gloves (5)<br>diving socks (5)<br>electric blanket (2)<br>faux fur gloves (1)<br>fetlock furs (3)<br>fingerless leather gloves (2)<br>fur gloves (1)<br>glove liners (1)<br>hard arm guards (4)<br>horse tack (5)<br>hot pants (3)<br>jean jacket (1)<br>jean vest (1)<br>jeans (3)<br>jorts (3)<br>jumpsuit (5)<br>Kevlar sheet (4)<br>leather dog harness (3)<br>leather gloves (1)<br>leather jacket (3)<br>leather riding jacket (3)<br>leather skirt (2)<br>leather vest (3)<br>leggings (2)<br>long underwear bottom (1)<br>long-sleeved jumpsuit (5)<br>neoprene arm sleeves (4)<br>panties (1)<br>plastic shin guards (4)<br>skirt (3)<br>spring suit (4)<br>straw fedora (1)<br>sundress (1)<br>tailor's kit (3)<br>turtleneck (1)<br>turtleneck shirt (1)<br>union suit (0)<br>wetsuit (5)<br>wetsuit hood (5)<br>work coveralls (5)<br>work gloves (2)</div></div>
+| Garment Closures<br>Stretch Fabric
+|-
+| Sewing Techniques for Designers
+| 3-6
+| boiled leather cow barding with caparison (4)<br>boiled leather horse barding with caparison (4)<br>breeches (2)<br>buckskin shirt (4)<br>buckskin vest (4)<br><div class="mw-collapsible mw-collapsed">+63 more recipes<div class="mw-collapsible-content">cargo pants (2)<br>chitin cow armor (5)<br>chitin dog mesh harness (5)<br>chitin horse armor (5)<br>curved needle (3)<br>denim skirt (2)<br>diving boots (4)<br>diving gloves (4)<br>diving socks (4)<br>electric blanket (2)<br>faux fur coat (3)<br>faux fur hat (2)<br>faux fur longcoat (3)<br>faux fur pants (3)<br>faux fur vest (3)<br>fetlock furs (2)<br>fingerless leather gloves (2)<br>flame-resistant cowl (5)<br>flame-resistant gloves (5)<br>flame-resistant socks (5)<br>fur vest (3)<br>hard arm guards (3)<br>horse tack (4)<br>hot pants (3)<br>iron cow armor (5)<br>iron horse armor (5)<br>jean jacket (2)<br>jean vest (2)<br>jeans (3)<br>jorts (3)<br>jumpsuit (4)<br>Kevlar sheet (4)<br>leather dog harness (3)<br>leather jacket (4)<br>leather longcoat (4)<br>leather riding jacket (4)<br>leather skirt (2)<br>leather vest (3)<br>long-sleeved jumpsuit (4)<br>neoprene arm sleeves (3)<br>plastic shin guards (3)<br>rollerblades (5)<br>rollerskates (5)<br>rubber cement (5)<br>skirt (3)<br>sleeveless faux fur longcoat (3)<br>sleeveless leather longcoat (4)<br>spring suit (3)<br>straw fedora (0)<br>tailor's kit (3)<br>thermal electric balaclava (3)<br>thermal electric gloves (3)<br>thermal electric socks (3)<br>thermal electric suit (3)<br>union suit (0)<br>western boots (4)<br>wetsuit (4)<br>wetsuit hood (4)<br>work coveralls (4)<br>XL sleeveless faux fur longcoat (3)<br>XL sleeveless leather longcoat (4)<br>XS sleeveless faux fur longcoat (3)<br>XS sleeveless leather longcoat (4)</div></div>
+| Garment Closures<br>Stretch Fabric
+|-
+| Traditional Japanese Kimono
+| 3-6
+| geta (2)<br>hakama (3)<br>haori (5)<br>kimono (4)<br>straw cloak (6)<br>tabi (2)<br>yukata (3)
+| &mdash;
+|-
+| Ye Scots Beuk o Tailorin'
+| 2-5
+| bagpipes (3)<br>kilt (3)<br>leather kilt (3)<br>utility kilt (4)
+| &mdash;
+|}
+
+=== Throwing ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| Diskobolus
+| 0-1
+| &mdash;
+| &mdash;
+|-
+| The Complete Guide to Pitching
+| 0-3
+| &mdash;
+| &mdash;
+|}
+
+=== Unarmed Combat ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| 101 Wrestling Moves
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| MMA Monthly
+| 0-1
+| &mdash;
+| &mdash;
+|}
+
+=== Vehicles ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| AAA Guide
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| AAA Guide
+| 0-4
+| ANFO (6)<br>antenna (1)<br>barrel bomb (8)<br>black gunpowder (6)<br>coilgun (6)<br><div class="mw-collapsible mw-collapsed">+41 more recipes<div class="mw-collapsible-content">directional antenna (5)<br>drop-in auto sear (5)<br>dynamite (2)<br>electrohack (3)<br>EMP bomb (5)<br>flamethrower fuel (2)<br>flashbang (7)<br>full-auto varmint pistol (2)<br>full-auto varmint rifle (2)<br>gelled gasoline (2)<br>Glock auto sear plate (5)<br>HE barrel bomb (8)<br>HE keg bomb (8)<br>HE pipe bomb (5)<br>homemade demolition charge (5)<br>improvised bomb (5)<br>improvised HE bomb (5)<br>improvised HE grenade (5)<br>improvised rocket fuel (5)<br>incendiary (0)<br>keg bomb (8)<br>lightning link (3)<br>mixed smokeless gunpowder (0)<br>napalm (7)<br>noise emitter (off) (2)<br>portable soldering iron (1)<br>programmable autopilot (3)<br>radio (3)<br>RDX (10)<br>red phosphorous (3)<br>rocket candy (4)<br>saltpeter (7)<br>small improvised HE grenade (5)<br>smoke bomb (3)<br>soldering iron (2)<br>sprayable toxic gas (3)<br>TEC-9 full auto sear (5)<br>transponder circuit (3)<br>UPS (off) (4)<br>UPS conversion mod (3)<br>white phosphorous (3)</div></div>
+| &mdash;
+|-
+| The Rules of the Road
+| 0-3
+| &mdash;
+| &mdash;
+|-
+| Top Gear magazine
+| 0-1
+| &mdash;
+| &mdash;
+|}
+
+=== Other ===
+{| class="wikitable sortable"
+! Book !! Level Range !! Recipes Taught !! Proficiencies
+|-
+| cement bag
+| &mdash;
+| mortar (2)
+| &mdash;
+|-
+| CRC-Merck Handbook, 4th edition
+| &mdash;
+| cocaine topical cream (4)
+| &mdash;
+|-
+| Machinery's Handbook
+| &mdash;
+| fanning mill (1)
+| &mdash;
+|-
+| patient treatment records
+| &mdash;
+| purifier (7)
+| &mdash;
+|-
+| unmarked notebook
+| &mdash;
+| mutagen (6)<br>purifier (6)
+| &mdash;
+|}
+
+=== Martial Arts Manuals ===
+{| class="wikitable sortable"
+! Book !! Style Taught
+|-
+| Beautiful Springtime
+| Wing Chun
+|-
+| Becoming One with the Tao
+| Tai Chi
+|-
+| Bōjutsu The Matsumoto System
+| Bōjutsu
+|-
+| Capoeira 100
+| Capoeira
+|-
+| Complete Krav Maga
+| Krav Maga
+|-
+| Essence of Ninjutsu
+| Ninjutsu
+|-
+| Fior Di Battaglia
+| Fior Di Battaglia
+|-
+| Historic European Swordfighting
+| Medieval Swordsmanship
+|-
+| Kerala's Ancient Martial Art
+| Kalaripayattu
+|-
+| Kodokan Judo
+| Judo
+|-
+| Las Nueve Reglas de la Montante
+| Barbaran Montante
+|-
+| Official Taekwondo Training Manual
+| Taekwondo
+|-
+| Practical Eskrima
+| Eskrima
+|-
+| Practical Pugilism
+| Boxing
+|-
+| The Black Snake
+| Snake Kung Fu
+|-
+| The Book of Five Rings
+| Niten Ichi-Ryu
+|-
+| The Deaf Leopard
+| Leopard Kung Fu
+|-
+| The Indonesian Warrior
+| Silat
+|-
+| The Jade Dragon
+| Dragon Kung Fu
+|-
+| The Modern Pankratiast
+| Pankration
+|-
+| The Modern Swordsman
+| Fencing
+|-
+| The Red Crane
+| Crane Kung Fu
+|-
+| The Shōtōkan Karate Handbook
+| Karate
+|-
+| The Spirit of Aikido
+| Aikido
+|-
+| The Ultimate Guide to Kickboxing
+| Kickboxing
+|-
+| The Way of the Spear
+| Sōjutsu
+|-
+| The White Tiger
+| Tiger Kung Fu
+|-
+| Ultimate Muay Thai
+| Muay Thai
+|-
+| Zui Quan and You
+| Zui Quan
+|}
