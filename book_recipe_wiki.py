@@ -232,11 +232,11 @@ def report_changes(out_path, new_text):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("output", nargs="?", default="books_wiki.txt", help="output .txt path (default: books_wiki.txt)")
+    parser.add_argument("output", nargs="?", help="output .txt path (default: books_wiki.txt beside this script)")
     parser.add_argument("--game-dir", help="path to the game install (the folder containing data/json)")
     args = parser.parse_args()
 
-    out_path = Path(args.output)
+    out_path = Path(args.output) if args.output else SCRIPT_DIR / "books_wiki.txt"
     data_json = find_data_json(args.game_dir)
 
     print(f"Reading JSON from: {data_json}")
