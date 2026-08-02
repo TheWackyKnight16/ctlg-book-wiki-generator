@@ -17,8 +17,13 @@ Requires Python 3.8+. No third-party dependencies.
 python book_recipe_wiki.py --game-dir "C:\Path\To\Cataclysm-TLG"
 ```
 
-If you run it from inside the game's own `tools/` folder (or its data/json is in the current
-directory), you can drop `--game-dir` entirely - it'll find it automatically.
+The generated **`books_wiki.txt`** is also the previous-run baseline. When it already exists, the
+script compares the new result with it, prints a unified diff and an additions/deletions summary,
+then updates the file. If nothing changed, it prints `No changes since the last run.` The first run
+reports that there is no previous output.
+
+If you run it from inside the game's own `tools/book-recipe-wiki/` folder (or its data/json is in
+the current directory), you can drop `--game-dir` entirely - it'll find it automatically.
 
 This produces **`books_wiki.txt`** - finished MediaWiki source (headings + sortable tables).
 Paste this directly into the wiki page's **"Edit source"** box. It's already complete wikitext -
@@ -40,6 +45,17 @@ A sample, generated against one snapshot of the game, is checked into
   penalty for not having learned them yet. It does not teach the proficiency outright.
 
 ## Maintenance
+
+Run the generator from this directory after the game data changes, review the printed diff, and
+commit `books_wiki.txt` when the changes are expected:
+
+```bash
+cd tools/book-recipe-wiki
+python book_recipe_wiki.py --game-dir "C:\Path\To\Cataclysm-TLG"
+git diff -- books_wiki.txt
+git add book_recipe_wiki.py books_wiki.txt README.md
+git commit -m "Update generated book wiki output"
+```
 
 This was built as a one-off for a fast-moving mod/fork where nobody wants to hand-maintain a wiki
 page forever. It's just a script sitting here for whoever finds it useful - feel free to fork it,

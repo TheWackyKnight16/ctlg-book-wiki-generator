@@ -9,18 +9,21 @@ table" tool - it's already complete wikitext with headings and {| |} tables,
 a plain text-splitter will mangle it).
 
 Usage:
-    python book_recipe_wiki.py [--game-dir PATH] [-o output_file.wiki]
+    python book_recipe_wiki.py [--game-dir PATH] [output_file.txt]
 
 Reads the game's own data/json tree, so the output always matches whatever
 version of the game/mod you run it against - just rerun this after an
-update. By default it looks for a data/json folder next to this script, one
-level up (i.e. assumes it's sitting in <game>/tools/), and in the current
-directory; if none of those exist, point it at your install with --game-dir,
-e.g.:
+update. When the output already exists, the new result is compared with the
+last run and a unified diff is printed before the output is updated. By
+default it looks for a data/json folder next to this script, in its parent,
+in its grandparent (the game root when this lives under tools/), and in the
+current directory; if none of those exist, point it at your install with
+--game-dir, e.g.:
 
     python book_recipe_wiki.py --game-dir "C:\\Path\\To\\Cataclysm-TLG"
 """
 import argparse
+import difflib
 import json
 import sys
 from pathlib import Path
@@ -39,6 +42,7 @@ def find_data_json(game_dir_arg):
     for candidate in (
         SCRIPT_DIR / "data" / "json",
         SCRIPT_DIR.parent / "data" / "json",
+        SCRIPT_DIR.parent.parent / "data" / "json",
         Path.cwd() / "data" / "json",
     ):
         if candidate.is_dir():
@@ -194,6 +198,36 @@ def format_list_cell(items, noun):
         f"+{len(hidden)} more {noun}"
         '<div class="mw-collapsible-content">' + "<br>".join(hidden) + "</div></div>"
     )
+
+
+def report_changes(out_path, new_text):
+    """Print the changes from the previous generated output, if one exists."""
+    if not out_path.exists():
+        print(f"No previous output found at {out_path}; this is the first run.")
+        return
+
+    try:
+        old_text = out_path.read_text(encoding="utf-8")
+    except OSError as e:
+        print(f"Couldn't compare with previous output {out_path}: {e}", file=sys.stderr)
+        return
+
+    if old_text == new_text:
+        print("No changes since the last run.")
+        return
+
+    old_lines = old_text.splitlines(keepends=True)
+    new_lines = new_text.splitlines(keepends=True)
+    diff = list(difflib.unified_diff(
+        old_lines,
+        new_lines,
+        fromfile=f"{out_path} (last run)",
+        tofile=f"{out_path} (current run)",
+    ))
+    additions = sum(line.startswith("+") and not line.startswith("+++") for line in diff)
+    deletions = sum(line.startswith("-") and not line.startswith("---") for line in diff)
+    print(f"Changes since the last run: {additions} additions, {deletions} deletions")
+    print("".join(diff), end="")
 
 
 def main():
@@ -356,7 +390,9 @@ def main():
         lines.append("|}")
         lines.append("")
 
-    out_path.write_text("\n".join(lines), encoding="utf-8")
+    output_text = "\n".join(lines)
+    report_changes(out_path, output_text)
+    out_path.write_text(output_text, encoding="utf-8")
     print(f"Wrote {len(rows)} books across {len(groups)} groups to: {out_path}")
 
 
